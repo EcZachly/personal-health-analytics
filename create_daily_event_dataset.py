@@ -1,5 +1,6 @@
 import csv
 import datetime
+import os
 from os import listdir, walk
 from collections import namedtuple
 from dateutil import parser
@@ -14,19 +15,19 @@ YOUR_FITBIT_NAME = 'ZacharyWilson'
 
 LINKEDIN_DATA = {
     'shares': {
-        'path': 'data/linkedin/Shares.csv',
+        'file_start': 'Shares.csv',
         'file_type': 'csv',
         'metric_key': lambda x: 1,
         'content_key': lambda x: x['ShareCommentary']
     },
     'comments': {
-        'path': 'data/linkedin/Comments.csv',
+        'file_start': 'Comments.csv',
         'file_type': 'csv',
         'metric_key': lambda x: 1,
         'content_key': lambda x: x['Message']
     },
     'reactions': {
-        'path': 'data/linkedin/Reactions.csv',
+        'file_start': 'Reactions.csv',
         'file_type': 'csv',
         'metric_key': lambda x: 1,
         'content_key': lambda x: x['Type']
@@ -97,31 +98,36 @@ def read_linkedin_data():
     rows = []
     for key in LINKEDIN_DATA.keys():
         print('starting read for LinkedIn data:' + key)
-        path = LINKEDIN_DATA[key]['path']
+        file_start = LINKEDIN_DATA[key]['file_start']
         content_key = LINKEDIN_DATA[key]['content_key']
         metric_key = LINKEDIN_DATA[key]['metric_key']
         file_type = LINKEDIN_DATA[key]['file_type']
-        with open(path) as f:
-            reader = csv.DictReader(f, dialect='excel') if file_type == 'csv' else json.loads(f.read())
-            for row in reader:
-                if 'Date' in row and datetime_valid(row['Date']):
-                    new_event = Event(
-                        source='LinkedIn',
-                        metric_name=key,
-                        timestamp=row['Date'],
-                        metric_value=metric_key(row),
-                        content=content_key(row)
-                    )
-                    rows.append(new_event)
-                elif 'Date' in row:
-                    combined_content = rows[-1].content + ' ' + row['Date']
-                    rows[-1] = Event(
-                        source='LinkedIn',
-                        metric_name=rows[-1].metric_name,
-                        timestamp=rows[-1].timestamp,
-                        metric_value=metric_key(row),
-                        content=combined_content
-                    )
+
+        for path, folders, files in os.walk('data/linkedin'):
+            for file in files:
+                full_path = path + '/' + file
+                if file_start == file:
+                    with open(full_path) as f:
+                        reader = csv.DictReader(f, dialect='excel') if file_type == 'csv' else json.loads(f.read())
+                        for row in reader:
+                            if 'Date' in row and datetime_valid(row['Date']):
+                                new_event = Event(
+                                    source='LinkedIn',
+                                    metric_name=key,
+                                    timestamp=row['Date'],
+                                    metric_value=metric_key(row),
+                                    content=content_key(row)
+                                )
+                                rows.append(new_event)
+                            elif 'Date' in row:
+                                combined_content = rows[-1].content + ' ' + row['Date']
+                                rows[-1] = Event(
+                                    source='LinkedIn',
+                                    metric_name=rows[-1].metric_name,
+                                    timestamp=rows[-1].timestamp,
+                                    metric_value=metric_key(row),
+                                    content=combined_content
+                                )
     return rows
 
 
