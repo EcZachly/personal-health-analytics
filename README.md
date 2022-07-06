@@ -25,12 +25,13 @@ Run `pip install -r requirements.txt` to install Pandas if you don't have pandas
 update your `YOUR_FITBIT_NAME` to whatever it shows in your path. Mine was `ZacharyWilson` 
 
 Once that is updated. 
-Run the script with `python create_daily_event_dataset.py`
+Run the script with `python runner.py`
 
-This will create two datasets
+This will create three datasets
 `output/all_events_on_timeline.csv`
 `output/daily_aggregates.csv`
+`output/pivoted.csv`
 
 
-You can use the `daily_aggregates.csv` to create fancy charts like this in Tableau
+You can use the `pivoted.csv` to create fancy charts like this in Tableau. My data is in the repo at `zachs_pivoted_data.csv`
 ![this](linkedin_stress.png)
