@@ -1,8 +1,8 @@
+import pandas as pd
 import fitbit_processor
 import linkedin_processor
 import timeline_augmenter
-import pandas as pd
-import csv
+
 
 processors = {
     'fitbit': fitbit_processor,
@@ -11,20 +11,6 @@ processors = {
 
 # I only want data after I started recording stuff with my fitbit
 CUTOFF_DATE = '2019-06-01'
-
-def run_everything(csv_file='output/all_events_on_timeline.csv'):
-    print('starting schema consolidation step')
-    all_rows = []
-    for key, processor in processors.items():
-        more_rows = processor.read_data()
-        all_rows = all_rows + more_rows
-    with open(csv_file, 'w') as f:
-        w = csv.writer(f)
-        w.writerow(('Source', 'Metric Name', 'Timestamp', 'Metric Value', 'Content'))
-        for data in all_rows:
-            w.writerow((data.source, data.metric_name, data.timestamp, float(data.metric_value),
-                        ' '.join(data.content.split())))
-    do_daily_aggregates(input_csv_file=csv_file)
 
 
 def do_daily_aggregates(input_csv_file, output_csv='output/daily_aggregates.csv'):
@@ -41,7 +27,19 @@ def do_daily_aggregates(input_csv_file, output_csv='output/daily_aggregates.csv'
     pivoted = timeline_augmenter.augment_daily_timelines(pivoted)
     # Only keep data where Fitbit is valid
     output = pivoted[pivoted['str_date'] > CUTOFF_DATE]
-    output.to_csv('output/pivoted.csv')
+    output.to_csv('output/pivoted.csv', index=False)
 
 
-run_everything()
+def run_everything(csv_file='output/all_events_on_timeline.csv'):
+    print('starting schema consolidation step')
+    all_rows = []
+    for key, processor in processors.items():
+        more_rows = processor.read_data()
+        all_rows = all_rows + more_rows
+    all_data = pd.DataFrame(all_rows, columns=['Source', 'Metric Name', 'Timestamp', 'Metric Value', 'Content'])
+    all_data.to_csv(csv_file, index=False)
+    do_daily_aggregates(input_csv_file=csv_file)
+
+
+if __name__ == "__main__":
+    run_everything()

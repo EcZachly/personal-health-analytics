@@ -107,13 +107,13 @@ def read_data():
                         with open(path + '/' + file) as f:
                             reader = csv.DictReader(f) if file_type == 'csv' else json.loads(f.read())
                             for row in reader:
-                                metric_value = metric_key(row)
                                 try:
-                                    if float(metric_value) > 0.0:
+                                    metric_value = float(metric_key(row))
+                                    if metric_value > 0.0:
                                         new_event = Event(source=FITBIT_SOURCE_NAME,
                                                           metric_name=key,
                                                           timestamp=timestamp(row),
-                                                          metric_value=metric_key(row),
+                                                          metric_value=metric_value,
                                                           content=''
                                                           )
                                         rows.append(new_event)
