@@ -1,0 +1,911 @@
+date,comments_given,comments_received,distinct_artists_played,distinct_songs_played,heart_rate_variability,reactions_given,reactions_received,shares,total_play_time_ms,str_date,employer,location,relationship_status
+2019-06-03 00:00:00+00:00,,,,,,1.0,,,,2019-06-03 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-05 00:00:00+00:00,,,,,,3.0,,,,2019-06-05 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-06 00:00:00+00:00,,,,,,2.0,,,,2019-06-06 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-08 00:00:00+00:00,1.0,,,,,1.0,,,,2019-06-08 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-11 00:00:00+00:00,,,,,,3.0,,,,2019-06-11 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-12 00:00:00+00:00,,,,,,1.0,,,,2019-06-12 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-13 00:00:00+00:00,,,,,,1.0,,,,2019-06-13 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-17 00:00:00+00:00,,,,,,1.0,,,,2019-06-17 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-18 00:00:00+00:00,,,,,,1.0,,,,2019-06-18 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-19 00:00:00+00:00,,,,,,2.0,,,,2019-06-19 00:00:00+00:00,Netflix,San Francisco,Single
+2019-06-26 00:00:00+00:00,,,,,,1.0,,,,2019-06-26 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-02 00:00:00+00:00,,,,,,2.0,,,,2019-07-02 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-07 00:00:00+00:00,,,,,,1.0,,,,2019-07-07 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-09 00:00:00+00:00,,,,,,5.0,,,,2019-07-09 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-10 00:00:00+00:00,,,,,,1.0,,,,2019-07-10 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-12 00:00:00+00:00,,,,,,3.0,,,,2019-07-12 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-15 00:00:00+00:00,,0.0,,,,2.0,3.0,1.0,,2019-07-15 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-16 00:00:00+00:00,,,,,,2.0,,,,2019-07-16 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-18 00:00:00+00:00,,,,,,1.0,,,,2019-07-18 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-20 00:00:00+00:00,,,,,,3.0,,,,2019-07-20 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-22 00:00:00+00:00,1.0,,,,,1.0,,,,2019-07-22 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-23 00:00:00+00:00,,,,,,2.0,,,,2019-07-23 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-24 00:00:00+00:00,,,,,,1.0,,,,2019-07-24 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-26 00:00:00+00:00,,,,,,1.0,,,,2019-07-26 00:00:00+00:00,Netflix,San Francisco,Single
+2019-07-31 00:00:00+00:00,,,,,,2.0,,,,2019-07-31 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-01 00:00:00+00:00,,,,,,1.0,,,,2019-08-01 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-04 00:00:00+00:00,1.0,,,,,1.0,,,,2019-08-04 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-06 00:00:00+00:00,,,,,,2.0,,,,2019-08-06 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-08 00:00:00+00:00,1.0,,,,,2.0,,,,2019-08-08 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-12 00:00:00+00:00,,,,,,3.0,,,,2019-08-12 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-14 00:00:00+00:00,,,,,,1.0,,,,2019-08-14 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-16 00:00:00+00:00,,,,,,4.0,,,,2019-08-16 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-17 00:00:00+00:00,,,,,,3.0,,,,2019-08-17 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-18 00:00:00+00:00,1.0,,,,,2.0,,,,2019-08-18 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-19 00:00:00+00:00,,,,,,4.0,,,,2019-08-19 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-20 00:00:00+00:00,,,,,,1.0,,,,2019-08-20 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-21 00:00:00+00:00,,,,,,1.0,,,,2019-08-21 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-22 00:00:00+00:00,,,,,,1.0,,,,2019-08-22 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-25 00:00:00+00:00,1.0,,,,,,,,,2019-08-25 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-26 00:00:00+00:00,,,,,,2.0,,,,2019-08-26 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-27 00:00:00+00:00,,,,,,1.0,,,,2019-08-27 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-28 00:00:00+00:00,,,,,,1.0,,,,2019-08-28 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-29 00:00:00+00:00,,,,,,1.0,,,,2019-08-29 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-30 00:00:00+00:00,,,,,,1.0,,,,2019-08-30 00:00:00+00:00,Netflix,San Francisco,Single
+2019-08-31 00:00:00+00:00,1.0,,,,,,,,,2019-08-31 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-02 00:00:00+00:00,,,,,,1.0,,,,2019-09-02 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-03 00:00:00+00:00,,,,,,1.0,,,,2019-09-03 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-07 00:00:00+00:00,,,,,,1.0,,,,2019-09-07 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-08 00:00:00+00:00,1.0,,,,,1.0,,,,2019-09-08 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-09 00:00:00+00:00,,,,,,1.0,,,,2019-09-09 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-10 00:00:00+00:00,,,,,,1.0,,,,2019-09-10 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-11 00:00:00+00:00,,,,,,1.0,,,,2019-09-11 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-13 00:00:00+00:00,,,,,,1.0,,,,2019-09-13 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-15 00:00:00+00:00,,,,,,1.0,,,,2019-09-15 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-16 00:00:00+00:00,,,,,,1.0,,,,2019-09-16 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-17 00:00:00+00:00,,,,,,1.0,,,,2019-09-17 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-18 00:00:00+00:00,,,,,,2.0,,,,2019-09-18 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-19 00:00:00+00:00,,,,,,1.0,,,,2019-09-19 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-21 00:00:00+00:00,,,,,,1.0,,,,2019-09-21 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-25 00:00:00+00:00,1.0,,,,,2.0,,,,2019-09-25 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-26 00:00:00+00:00,,,,,,1.0,,,,2019-09-26 00:00:00+00:00,Netflix,San Francisco,Single
+2019-09-27 00:00:00+00:00,,,,,,2.0,,,,2019-09-27 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-01 00:00:00+00:00,,,,,,1.0,,,,2019-10-01 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-02 00:00:00+00:00,,,,,,1.0,,,,2019-10-02 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-03 00:00:00+00:00,1.0,,,,,1.0,,,,2019-10-03 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-04 00:00:00+00:00,,,,,,2.0,,,,2019-10-04 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-05 00:00:00+00:00,,,,,,1.0,,,,2019-10-05 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-06 00:00:00+00:00,,,,,,1.0,,,,2019-10-06 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-07 00:00:00+00:00,1.0,3.0,,,,1.0,38.0,1.0,,2019-10-07 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-08 00:00:00+00:00,,,,,,5.0,,,,2019-10-08 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-09 00:00:00+00:00,,,,,,1.0,,,,2019-10-09 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-10 00:00:00+00:00,2.0,,,,,1.0,,,,2019-10-10 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-11 00:00:00+00:00,1.0,,,,,4.0,,,,2019-10-11 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-12 00:00:00+00:00,,,,,,2.0,,,,2019-10-12 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-13 00:00:00+00:00,,,,,,2.0,,,,2019-10-13 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-14 00:00:00+00:00,1.0,,,,,5.0,,,,2019-10-14 00:00:00+00:00,Netflix,San Francisco,Single
+2019-10-15 00:00:00+00:00,2.0,,,,,,,,,2019-10-15 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-16 00:00:00+00:00,,1.0,,,,,19.0,1.0,,2019-10-16 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-19 00:00:00+00:00,,,,,,3.0,,,,2019-10-19 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-20 00:00:00+00:00,1.0,,,,,4.0,,,,2019-10-20 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-21 00:00:00+00:00,2.0,,,,,3.0,,,,2019-10-21 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-23 00:00:00+00:00,,,,,,3.0,,,,2019-10-23 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-25 00:00:00+00:00,,,,,,3.0,,,,2019-10-25 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-26 00:00:00+00:00,,1.0,,,,,35.0,1.0,,2019-10-26 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-27 00:00:00+00:00,1.0,,,,,1.0,,,,2019-10-27 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-28 00:00:00+00:00,,3.0,,,,2.0,17.0,1.0,,2019-10-28 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-29 00:00:00+00:00,,,,,,3.0,,,,2019-10-29 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-10-31 00:00:00+00:00,2.0,,,,,6.0,,,,2019-10-31 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-01 00:00:00+00:00,,0.0,,,,4.0,18.0,1.0,,2019-11-01 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-02 00:00:00+00:00,,,,,,4.0,,,,2019-11-02 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-03 00:00:00+00:00,,,,,,2.0,,,,2019-11-03 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-04 00:00:00+00:00,,,,,,2.0,,,,2019-11-04 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-05 00:00:00+00:00,2.0,,,,,1.0,,,,2019-11-05 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-06 00:00:00+00:00,,,,,,2.0,,,,2019-11-06 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-09 00:00:00+00:00,1.0,,,,,2.0,,,,2019-11-09 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-10 00:00:00+00:00,,,,,,1.0,,,,2019-11-10 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-11 00:00:00+00:00,1.0,,,,,3.0,,,,2019-11-11 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-12 00:00:00+00:00,2.0,33.0,,,,6.0,412.0,1.0,,2019-11-12 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-13 00:00:00+00:00,6.0,,,,,9.0,,,,2019-11-13 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-14 00:00:00+00:00,9.0,,,,,9.0,,,,2019-11-14 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-15 00:00:00+00:00,,,,,,2.0,,,,2019-11-15 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-18 00:00:00+00:00,2.0,0.0,,,,2.0,6.0,1.0,,2019-11-18 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-19 00:00:00+00:00,,,,,,1.0,,,,2019-11-19 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-20 00:00:00+00:00,1.0,,,,,,,,,2019-11-20 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-21 00:00:00+00:00,,,,,,1.0,,,,2019-11-21 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-23 00:00:00+00:00,,,,,,2.0,,,,2019-11-23 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-24 00:00:00+00:00,1.0,,,,,,,,,2019-11-24 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-25 00:00:00+00:00,1.0,,,,,1.0,,,,2019-11-25 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-11-27 00:00:00+00:00,1.0,,,,,6.0,,,,2019-11-27 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-03 00:00:00+00:00,,,,,,3.0,,,,2019-12-03 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-04 00:00:00+00:00,,,,,,4.0,,,,2019-12-04 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-09 00:00:00+00:00,,,,,,1.0,,,,2019-12-09 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-11 00:00:00+00:00,1.0,,,,,3.0,,,,2019-12-11 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-12 00:00:00+00:00,1.0,,,,,,,,,2019-12-12 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-13 00:00:00+00:00,2.0,,,,,1.0,,,,2019-12-13 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-14 00:00:00+00:00,,,,,,2.0,,,,2019-12-14 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-15 00:00:00+00:00,,,,,,2.0,,,,2019-12-15 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-16 00:00:00+00:00,,,,,,1.0,,,,2019-12-16 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-17 00:00:00+00:00,,,,,,1.0,,,,2019-12-17 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-18 00:00:00+00:00,,,,,,1.0,,,,2019-12-18 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-19 00:00:00+00:00,,,,,,1.0,,,,2019-12-19 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-24 00:00:00+00:00,,,,,,1.0,,,,2019-12-24 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-25 00:00:00+00:00,,,,,,2.0,,,,2019-12-25 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-26 00:00:00+00:00,,,,,,1.0,,,,2019-12-26 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-28 00:00:00+00:00,,,,,,1.0,,,,2019-12-28 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-29 00:00:00+00:00,,,,,,2.0,,,,2019-12-29 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2019-12-30 00:00:00+00:00,,,,,,3.0,,,,2019-12-30 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-02 00:00:00+00:00,,,,,,1.0,,,,2020-01-02 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-05 00:00:00+00:00,,,,,,1.0,,,,2020-01-05 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-07 00:00:00+00:00,,,,,,3.0,,,,2020-01-07 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-09 00:00:00+00:00,,,,,,1.0,,,,2020-01-09 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-10 00:00:00+00:00,1.0,,,,,3.0,,,,2020-01-10 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-15 00:00:00+00:00,,2.0,,,,,22.0,1.0,,2020-01-15 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-16 00:00:00+00:00,,0.0,,,,2.0,1.0,1.0,,2020-01-16 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-17 00:00:00+00:00,,,,,,2.0,,,,2020-01-17 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-18 00:00:00+00:00,,,,,,4.0,,,,2020-01-18 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-19 00:00:00+00:00,,,,,,1.0,,,,2020-01-19 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-21 00:00:00+00:00,,,,,,2.0,,,,2020-01-21 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-22 00:00:00+00:00,2.0,4.0,,,,1.0,12.0,1.0,,2020-01-22 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-23 00:00:00+00:00,1.0,,,,,2.0,,,,2020-01-23 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-24 00:00:00+00:00,3.0,14.0,,,,,18.0,1.0,,2020-01-24 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-25 00:00:00+00:00,1.0,,,,,3.0,,,,2020-01-25 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-26 00:00:00+00:00,1.0,,,,,3.0,,,,2020-01-26 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-28 00:00:00+00:00,,1.0,,,,1.0,0.0,1.0,,2020-01-28 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-29 00:00:00+00:00,2.0,,,,,2.0,,,,2020-01-29 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-01-31 00:00:00+00:00,1.0,,,,,1.0,,,,2020-01-31 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-01 00:00:00+00:00,,,,,,1.0,,,,2020-02-01 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-04 00:00:00+00:00,,,,,,1.0,,,,2020-02-04 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-06 00:00:00+00:00,,,,,,1.0,,,,2020-02-06 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-07 00:00:00+00:00,,,,,,1.0,,,,2020-02-07 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-08 00:00:00+00:00,,,,,,2.0,,,,2020-02-08 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-10 00:00:00+00:00,1.0,,,,,,,,,2020-02-10 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-11 00:00:00+00:00,,,,,,5.0,,,,2020-02-11 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-13 00:00:00+00:00,,,,,,2.0,,,,2020-02-13 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-14 00:00:00+00:00,,,,,,1.0,,,,2020-02-14 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-17 00:00:00+00:00,,,,,,1.0,,,,2020-02-17 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-18 00:00:00+00:00,,,,,,1.0,,,,2020-02-18 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-19 00:00:00+00:00,2.0,,,,,6.0,,,,2020-02-19 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-20 00:00:00+00:00,,,,,,1.0,,,,2020-02-20 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-22 00:00:00+00:00,,,,,,2.0,,,,2020-02-22 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-24 00:00:00+00:00,,,,,,1.0,,,,2020-02-24 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-26 00:00:00+00:00,,,,,,1.0,,,,2020-02-26 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-02-28 00:00:00+00:00,,,,,,3.0,,,,2020-02-28 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-03-03 00:00:00+00:00,,,,,,2.0,,,,2020-03-03 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-03-04 00:00:00+00:00,1.0,,,,,,,,,2020-03-04 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-03-05 00:00:00+00:00,,,,,,1.0,,,,2020-03-05 00:00:00+00:00,Netflix,San Francisco,In Relationship
+2020-03-06 00:00:00+00:00,1.0,,,,,4.0,,,,2020-03-06 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-09 00:00:00+00:00,,,,,,1.0,,,,2020-03-09 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-10 00:00:00+00:00,,,,,,3.0,,,,2020-03-10 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-12 00:00:00+00:00,,,,,,1.0,,,,2020-03-12 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-18 00:00:00+00:00,,,,,,2.0,,,,2020-03-18 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-20 00:00:00+00:00,,,,,,2.0,,,,2020-03-20 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-21 00:00:00+00:00,,,,,,1.0,,,,2020-03-21 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-24 00:00:00+00:00,,,,,,2.0,,,,2020-03-24 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-27 00:00:00+00:00,1.0,,,,,3.0,,,,2020-03-27 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-28 00:00:00+00:00,,,,,,1.0,,,,2020-03-28 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-03-31 00:00:00+00:00,1.0,,,,,1.0,,,,2020-03-31 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-03 00:00:00+00:00,,,,,,1.0,,,,2020-04-03 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-06 00:00:00+00:00,,,,,,1.0,,,,2020-04-06 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-07 00:00:00+00:00,,,,,,1.0,,,,2020-04-07 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-09 00:00:00+00:00,,,,,,2.0,,,,2020-04-09 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-10 00:00:00+00:00,1.0,,,,,,,,,2020-04-10 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-17 00:00:00+00:00,,,,,,1.0,,,,2020-04-17 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-19 00:00:00+00:00,,,,,,1.0,,,,2020-04-19 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-21 00:00:00+00:00,,,,,,3.0,,,,2020-04-21 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-26 00:00:00+00:00,,,,,,2.0,,,,2020-04-26 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-04-28 00:00:00+00:00,,,,,,2.0,,,,2020-04-28 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-01 00:00:00+00:00,,,,,,1.0,,,,2020-05-01 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-02 00:00:00+00:00,,,,,,5.0,,,,2020-05-02 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-05 00:00:00+00:00,,,,,,1.0,,,,2020-05-05 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-06 00:00:00+00:00,,,,,,3.0,,,,2020-05-06 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-09 00:00:00+00:00,,,,,,1.0,,,,2020-05-09 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-11 00:00:00+00:00,,,,,,1.0,,,,2020-05-11 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-12 00:00:00+00:00,,,,,,1.0,,,,2020-05-12 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-20 00:00:00+00:00,,,,,,1.0,,,,2020-05-20 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-22 00:00:00+00:00,,,,,,1.0,,,,2020-05-22 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-23 00:00:00+00:00,,,,,,2.0,,,,2020-05-23 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-24 00:00:00+00:00,,,,,,1.0,,,,2020-05-24 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-26 00:00:00+00:00,1.0,,,,,1.0,,,,2020-05-26 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-05-31 00:00:00+00:00,,,,,,1.0,,,,2020-05-31 00:00:00+00:00,Unemployed,Puerto Rico,In Relationship
+2020-06-03 00:00:00+00:00,,,,,,2.0,,,,2020-06-03 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-04 00:00:00+00:00,1.0,,,,,2.0,,,,2020-06-04 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-05 00:00:00+00:00,,,,,,2.0,,,,2020-06-05 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-06 00:00:00+00:00,,,,,,1.0,,,,2020-06-06 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-09 00:00:00+00:00,,,,,,1.0,,,,2020-06-09 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-10 00:00:00+00:00,,,,,,2.0,,,,2020-06-10 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-11 00:00:00+00:00,,,,,,2.0,,,,2020-06-11 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-13 00:00:00+00:00,1.0,,,,,1.0,,,,2020-06-13 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-14 00:00:00+00:00,,,,,,2.0,,,,2020-06-14 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-15 00:00:00+00:00,,,,,,1.0,,,,2020-06-15 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-16 00:00:00+00:00,,,,,,1.0,,,,2020-06-16 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-17 00:00:00+00:00,,,,,,1.0,,,,2020-06-17 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-18 00:00:00+00:00,,,,,,1.0,,,,2020-06-18 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-19 00:00:00+00:00,1.0,,,,,1.0,,,,2020-06-19 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-20 00:00:00+00:00,,,,,,1.0,,,,2020-06-20 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-22 00:00:00+00:00,2.0,,,,,1.0,,,,2020-06-22 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-23 00:00:00+00:00,,,,,,1.0,,,,2020-06-23 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-24 00:00:00+00:00,,,,,,1.0,,,,2020-06-24 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-25 00:00:00+00:00,,,,,,1.0,,,,2020-06-25 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-27 00:00:00+00:00,,,,,,1.0,,,,2020-06-27 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-29 00:00:00+00:00,,,,,,4.0,,,,2020-06-29 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-06-30 00:00:00+00:00,,,,,,1.0,,,,2020-06-30 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-07-03 00:00:00+00:00,,,,,,1.0,,,,2020-07-03 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-07-04 00:00:00+00:00,,,,,,4.0,,,,2020-07-04 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-07-06 00:00:00+00:00,,,,,,1.0,,,,2020-07-06 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-07-07 00:00:00+00:00,,,,,,1.0,,,,2020-07-07 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-07-09 00:00:00+00:00,,,,,,1.0,,,,2020-07-09 00:00:00+00:00,Unemployed,Utah,In Relationship
+2020-07-10 00:00:00+00:00,,,,,,1.0,,,,2020-07-10 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-12 00:00:00+00:00,,4.0,,,,1.0,14.0,1.0,,2020-07-12 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-13 00:00:00+00:00,2.0,3.0,,,,3.0,191.0,1.0,,2020-07-13 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-14 00:00:00+00:00,,,,,,1.0,,,,2020-07-14 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-15 00:00:00+00:00,,,,,,1.0,,,,2020-07-15 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-16 00:00:00+00:00,1.0,17.0,,,,6.0,214.0,1.0,,2020-07-16 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-17 00:00:00+00:00,,3.0,,,,4.0,61.0,1.0,,2020-07-17 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-18 00:00:00+00:00,5.0,0.0,,,,8.0,3.0,1.0,,2020-07-18 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-19 00:00:00+00:00,,,,,,1.0,,,,2020-07-19 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-20 00:00:00+00:00,,,,,,2.0,,,,2020-07-20 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-21 00:00:00+00:00,,26.0,,,,1.0,180.0,2.0,,2020-07-21 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-22 00:00:00+00:00,,,,,,3.0,,,,2020-07-22 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-23 00:00:00+00:00,1.0,2.0,,,,3.0,18.0,1.0,,2020-07-23 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-25 00:00:00+00:00,4.0,0.0,,,,3.0,10.0,1.0,,2020-07-25 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-26 00:00:00+00:00,1.0,,,,,,,,,2020-07-26 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-27 00:00:00+00:00,,,,,,2.0,,,,2020-07-27 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-28 00:00:00+00:00,,,,,,2.0,,,,2020-07-28 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-29 00:00:00+00:00,,,,,,3.0,,,,2020-07-29 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-30 00:00:00+00:00,1.0,,,,,2.0,,,,2020-07-30 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-07-31 00:00:00+00:00,1.0,,,,,1.0,,,,2020-07-31 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-01 00:00:00+00:00,,,,,,1.0,,,,2020-08-01 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-03 00:00:00+00:00,,,,,,12.0,,,,2020-08-03 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-05 00:00:00+00:00,,,,,,2.0,,,,2020-08-05 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-08 00:00:00+00:00,,,,,,1.0,,,,2020-08-08 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-09 00:00:00+00:00,,,,,,2.0,,,,2020-08-09 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-10 00:00:00+00:00,4.0,13.0,,,,6.0,147.0,1.0,,2020-08-10 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-12 00:00:00+00:00,,0.0,,,,,10.0,2.0,,2020-08-12 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-13 00:00:00+00:00,,,,,,1.0,,,,2020-08-13 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-16 00:00:00+00:00,,,,,,1.0,,,,2020-08-16 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-17 00:00:00+00:00,1.0,,,,,1.0,,,,2020-08-17 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-20 00:00:00+00:00,,,,,,1.0,,,,2020-08-20 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-21 00:00:00+00:00,,,,,,2.0,,,,2020-08-21 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-30 00:00:00+00:00,,,,,,1.0,,,,2020-08-30 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-08-31 00:00:00+00:00,,,,,,1.0,,,,2020-08-31 00:00:00+00:00,Unemployed,Road Trip,In Relationship
+2020-09-03 00:00:00+00:00,,,,,,3.0,,,,2020-09-03 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-04 00:00:00+00:00,,,,,,1.0,,,,2020-09-04 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-09 00:00:00+00:00,,,,,,1.0,,,,2020-09-09 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-11 00:00:00+00:00,,,,,,1.0,,,,2020-09-11 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-14 00:00:00+00:00,,,,,,1.0,,,,2020-09-14 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-15 00:00:00+00:00,,,,,,1.0,,,,2020-09-15 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-17 00:00:00+00:00,,,,,,1.0,,,,2020-09-17 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-18 00:00:00+00:00,2.0,8.0,,,,3.0,67.0,1.0,,2020-09-18 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-20 00:00:00+00:00,,0.0,,,,1.0,3.0,1.0,,2020-09-20 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-24 00:00:00+00:00,,,,,44.31572277227722,,,,,2020-09-24 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-25 00:00:00+00:00,,,,,37.126073529411755,1.0,,,,2020-09-25 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-26 00:00:00+00:00,4.0,32.0,,,43.880114942528714,3.0,35.0,1.0,,2020-09-26 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-27 00:00:00+00:00,3.0,,,,50.51137999999999,10.0,,,,2020-09-27 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-28 00:00:00+00:00,,,,,61.349987341772156,,,,,2020-09-28 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-09-29 00:00:00+00:00,,,,,39.89124096385541,2.0,,,,2020-09-29 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-01 00:00:00+00:00,,,,,,1.0,,,,2020-10-01 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-02 00:00:00+00:00,,,,,,2.0,,,,2020-10-02 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-03 00:00:00+00:00,,,,,35.00370270270271,,,,,2020-10-03 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-04 00:00:00+00:00,,,,,,2.0,,,,2020-10-04 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-06 00:00:00+00:00,,,,,,1.0,,,,2020-10-06 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-09 00:00:00+00:00,,,,,,1.0,,,,2020-10-09 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-11 00:00:00+00:00,,,,,,1.0,,,,2020-10-11 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-13 00:00:00+00:00,,,,,47.04613636363636,,,,,2020-10-13 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-14 00:00:00+00:00,,,,,30.88579661016949,,,,,2020-10-14 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-15 00:00:00+00:00,1.0,,,,44.09395294117649,,,,,2020-10-15 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-16 00:00:00+00:00,1.0,,,,34.12391764705881,,,,,2020-10-16 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-17 00:00:00+00:00,,,,,42.862736842105264,,,,,2020-10-17 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-18 00:00:00+00:00,1.0,,,,175.32500000000002,1.0,,,,2020-10-18 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-19 00:00:00+00:00,,,,,48.6497757009346,,,,,2020-10-19 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-20 00:00:00+00:00,,,,,33.53874418604651,3.0,,,,2020-10-20 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-21 00:00:00+00:00,3.0,4.0,,,41.96143564356435,1.0,31.0,1.0,,2020-10-21 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-22 00:00:00+00:00,,,,,33.95014814814815,1.0,,,,2020-10-22 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-23 00:00:00+00:00,,,,,,2.0,,,,2020-10-23 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-24 00:00:00+00:00,1.0,2.0,,,33.61385416666666,1.0,57.0,1.0,,2020-10-24 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-25 00:00:00+00:00,,0.0,,,34.52700943396227,1.0,46.0,1.0,,2020-10-25 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-26 00:00:00+00:00,1.0,,,,33.66096183206106,1.0,,,,2020-10-26 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-27 00:00:00+00:00,,,,,43.267988372093015,,,,,2020-10-27 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-28 00:00:00+00:00,,,,,34.16729702970297,1.0,,,,2020-10-28 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-29 00:00:00+00:00,,,,,42.53500000000001,,,,,2020-10-29 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-30 00:00:00+00:00,,,,,32.577465753424654,1.0,,,,2020-10-30 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-10-31 00:00:00+00:00,,,,,44.65325925925925,5.0,,,,2020-10-31 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-01 00:00:00+00:00,,,,,44.61250561797753,1.0,,,,2020-11-01 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-02 00:00:00+00:00,,,,,20.792600000000004,,,,,2020-11-02 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-03 00:00:00+00:00,,,,,44.42298290598293,,,,,2020-11-03 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-04 00:00:00+00:00,,,,,41.5053448275862,1.0,,,,2020-11-04 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-05 00:00:00+00:00,,,,,35.16694690265486,2.0,,,,2020-11-05 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-06 00:00:00+00:00,,,,,,2.0,,,,2020-11-06 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-07 00:00:00+00:00,,,,,39.27214851485149,,,,,2020-11-07 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-08 00:00:00+00:00,,,,,35.925176991150465,,,,,2020-11-08 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-09 00:00:00+00:00,,,,,49.99734146341468,2.0,,,,2020-11-09 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-10 00:00:00+00:00,,,,,41.501864406779696,1.0,,,,2020-11-10 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-11 00:00:00+00:00,1.0,,,,38.89488679245281,3.0,,,,2020-11-11 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-12 00:00:00+00:00,,,,,33.906441441441444,1.0,,,,2020-11-12 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-13 00:00:00+00:00,,1.0,,,26.635947826086955,1.0,22.0,1.0,,2020-11-13 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-14 00:00:00+00:00,,,,,29.39180952380951,,,,,2020-11-14 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-15 00:00:00+00:00,,,,,34.858772277227715,1.0,,,,2020-11-15 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-16 00:00:00+00:00,,,,,36.17701149425287,1.0,,,,2020-11-16 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-17 00:00:00+00:00,,,,,34.30822222222221,2.0,,,,2020-11-17 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-18 00:00:00+00:00,1.0,4.0,,,,2.0,21.0,1.0,,2020-11-18 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-19 00:00:00+00:00,2.0,,,,32.955862745098045,2.0,,,,2020-11-19 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-20 00:00:00+00:00,,2.0,,,,1.0,14.0,1.0,,2020-11-20 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-21 00:00:00+00:00,1.0,,,,39.472360465116274,2.0,,,,2020-11-21 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-22 00:00:00+00:00,,,,,34.75074285714285,,,,,2020-11-22 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-23 00:00:00+00:00,,,,,32.08608000000001,,,,,2020-11-23 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-24 00:00:00+00:00,,,,,33.36679411764707,,,,,2020-11-24 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-25 00:00:00+00:00,,,,,30.3731650485437,1.0,,,,2020-11-25 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-26 00:00:00+00:00,,,,,28.091463636363642,1.0,,,,2020-11-26 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-27 00:00:00+00:00,,,,,36.54655645161288,2.0,,,,2020-11-27 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-28 00:00:00+00:00,,,,,27.910379629629613,4.0,,,,2020-11-28 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-29 00:00:00+00:00,,,,,51.41102542372883,2.0,,,,2020-11-29 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-11-30 00:00:00+00:00,,,,,17.8335,1.0,,,,2020-11-30 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-01 00:00:00+00:00,1.0,3.0,,,26.710000000000008,,22.0,1.0,,2020-12-01 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-02 00:00:00+00:00,1.0,,,,25.52476923076924,,,,,2020-12-02 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-03 00:00:00+00:00,,,,,28.964615384615385,,,,,2020-12-03 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-04 00:00:00+00:00,,,,,28.820879310344825,1.0,,,,2020-12-04 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-05 00:00:00+00:00,,,,,35.97306603773583,2.0,,,,2020-12-05 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-06 00:00:00+00:00,,,,,38.834383177570096,,,,,2020-12-06 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-08 00:00:00+00:00,,,,,15.834333333333328,4.0,,,,2020-12-08 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-09 00:00:00+00:00,,,,,32.09775471698116,,,,,2020-12-09 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-10 00:00:00+00:00,,,,,33.53628260869566,2.0,,,,2020-12-10 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-11 00:00:00+00:00,,,,,33.02900961538462,1.0,,,,2020-12-11 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-12 00:00:00+00:00,,,,,40.9572843137255,,,,,2020-12-12 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-13 00:00:00+00:00,,,,,45.19514655172414,1.0,,,,2020-12-13 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-14 00:00:00+00:00,,19.0,,,44.31520792079207,4.0,286.0,2.0,,2020-12-14 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-15 00:00:00+00:00,1.0,1.0,,,,4.0,45.0,1.0,,2020-12-15 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-16 00:00:00+00:00,1.0,,,,27.41331355932203,2.0,,,,2020-12-16 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-17 00:00:00+00:00,,,,,40.41112068965517,,,,,2020-12-17 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-18 00:00:00+00:00,,3.0,,,44.670471698113204,2.0,6.0,1.0,,2020-12-18 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-19 00:00:00+00:00,,,,,49.11803370786517,2.0,,,,2020-12-19 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-20 00:00:00+00:00,,2.0,,,38.605399999999996,,28.0,1.0,,2020-12-20 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-22 00:00:00+00:00,,,,,,2.0,,,,2020-12-22 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-23 00:00:00+00:00,3.0,98.0,,,,10.0,790.0,1.0,,2020-12-23 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-24 00:00:00+00:00,4.0,0.0,,,,5.0,82.0,1.0,,2020-12-24 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-25 00:00:00+00:00,5.0,0.0,,,,13.0,43.0,1.0,,2020-12-25 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-26 00:00:00+00:00,8.0,4.0,,,,6.0,74.0,2.0,,2020-12-26 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-27 00:00:00+00:00,1.0,,,,,4.0,,,,2020-12-27 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-28 00:00:00+00:00,2.0,0.0,,,,3.0,16.0,1.0,,2020-12-28 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-29 00:00:00+00:00,,,,,,2.0,,,,2020-12-29 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-30 00:00:00+00:00,2.0,,,,,3.0,,,,2020-12-30 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2020-12-31 00:00:00+00:00,1.0,0.0,,,,3.0,65.0,1.0,,2020-12-31 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-01 00:00:00+00:00,2.0,,,,,,,,,2021-01-01 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-03 00:00:00+00:00,9.0,24.0,,,,10.0,236.0,1.0,,2021-01-03 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-04 00:00:00+00:00,2.0,,,,,3.0,,,,2021-01-04 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-05 00:00:00+00:00,,13.0,,,,2.0,135.0,1.0,,2021-01-05 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-06 00:00:00+00:00,1.0,,,,,1.0,,,,2021-01-06 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-07 00:00:00+00:00,,5.0,,,,,43.0,1.0,,2021-01-07 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-08 00:00:00+00:00,2.0,,,,,1.0,,,,2021-01-08 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-09 00:00:00+00:00,,,,,,1.0,,,,2021-01-09 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-11 00:00:00+00:00,1.0,,,,,2.0,,,,2021-01-11 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-12 00:00:00+00:00,,4.0,,,,4.0,81.0,1.0,,2021-01-12 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-13 00:00:00+00:00,,1.0,,,,,76.0,1.0,,2021-01-13 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-14 00:00:00+00:00,1.0,17.0,,,,6.0,250.0,1.0,,2021-01-14 00:00:00+00:00,Unemployed,San Francisco,In Relationship
+2021-01-15 00:00:00+00:00,,,,,,2.0,,,,2021-01-15 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-16 00:00:00+00:00,,,,,,4.0,,,,2021-01-16 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-17 00:00:00+00:00,,,,,,1.0,,,,2021-01-17 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-18 00:00:00+00:00,2.0,29.0,,,,9.0,456.0,1.0,,2021-01-18 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-19 00:00:00+00:00,,,,,,3.0,,,,2021-01-19 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-20 00:00:00+00:00,2.0,,,,32.557101265822794,12.0,,,,2021-01-20 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-21 00:00:00+00:00,3.0,34.0,,,30.83569072164947,21.0,558.0,1.0,,2021-01-21 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-22 00:00:00+00:00,10.0,70.0,,,27.268687500000016,22.0,625.0,4.0,,2021-01-22 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-23 00:00:00+00:00,7.0,10.0,,,28.53683505154638,19.0,238.0,1.0,,2021-01-23 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-24 00:00:00+00:00,3.0,,,,34.04711458333333,4.0,,,,2021-01-24 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-25 00:00:00+00:00,2.0,,,,25.669322580645154,11.0,,,,2021-01-25 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-26 00:00:00+00:00,2.0,16.0,,,33.94348051948052,13.0,202.0,1.0,,2021-01-26 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-27 00:00:00+00:00,1.0,,,,32.732375000000005,6.0,,,,2021-01-27 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-28 00:00:00+00:00,,8.0,,,31.692396039603967,9.0,54.0,1.0,,2021-01-28 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-29 00:00:00+00:00,3.0,4.0,,,35.242799999999995,5.0,187.0,1.0,,2021-01-29 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-30 00:00:00+00:00,,7.0,,,,7.0,76.0,1.0,,2021-01-30 00:00:00+00:00,Unemployed,Utah,Single
+2021-01-31 00:00:00+00:00,1.0,3.0,,,,4.0,38.0,1.0,,2021-01-31 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-01 00:00:00+00:00,1.0,,,,,1.0,,,,2021-02-01 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-02 00:00:00+00:00,,50.0,,,,12.0,416.0,1.0,,2021-02-02 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-03 00:00:00+00:00,5.0,26.0,,,,32.0,251.0,2.0,,2021-02-03 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-04 00:00:00+00:00,10.0,21.0,,,,20.0,651.0,4.0,,2021-02-04 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-05 00:00:00+00:00,2.0,17.0,,,34.18551578947367,15.0,530.0,2.0,,2021-02-05 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-06 00:00:00+00:00,5.0,27.0,,,35.07490410958903,8.0,668.0,2.0,,2021-02-06 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-07 00:00:00+00:00,4.0,,,,31.876852272727252,1.0,,,,2021-02-07 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-08 00:00:00+00:00,1.0,3.0,,,20.846,8.0,37.0,1.0,,2021-02-08 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-09 00:00:00+00:00,2.0,,,,41.492201754385945,6.0,,,,2021-02-09 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-10 00:00:00+00:00,3.0,12.0,,,31.561555555555543,8.0,77.0,1.0,,2021-02-10 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-11 00:00:00+00:00,6.0,145.0,,,,15.0,1177.0,2.0,,2021-02-11 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-12 00:00:00+00:00,35.0,5.0,,,29.92941463414633,59.0,57.0,1.0,,2021-02-12 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-13 00:00:00+00:00,2.0,,,,66.9804563106796,10.0,,,,2021-02-13 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-14 00:00:00+00:00,5.0,54.0,,,56.0211413043478,12.0,258.0,1.0,,2021-02-14 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-15 00:00:00+00:00,16.0,67.0,,,38.42789814814816,42.0,597.0,4.0,,2021-02-15 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-16 00:00:00+00:00,10.0,,,,44.50018181818179,21.0,,,,2021-02-16 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-17 00:00:00+00:00,13.0,11.0,,,64.65186419753087,33.0,262.0,1.0,,2021-02-17 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-18 00:00:00+00:00,36.0,108.0,,,35.53319512195122,41.0,448.0,3.0,,2021-02-18 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-19 00:00:00+00:00,6.0,41.0,,,41.6831826923077,10.0,278.0,1.0,,2021-02-19 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-20 00:00:00+00:00,8.0,42.0,,,40.98734374999999,14.0,30.0,1.0,,2021-02-20 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-21 00:00:00+00:00,12.0,38.0,,,36.12817073170732,14.0,371.0,2.0,,2021-02-21 00:00:00+00:00,Unemployed,Utah,Single
+2021-02-22 00:00:00+00:00,6.0,38.0,,,31.766760416666667,18.0,707.0,1.0,,2021-02-22 00:00:00+00:00,Airbnb,Utah,Single
+2021-02-23 00:00:00+00:00,9.0,10.0,,,42.5791375,24.0,317.0,1.0,,2021-02-23 00:00:00+00:00,Airbnb,Utah,Single
+2021-02-24 00:00:00+00:00,10.0,126.0,,,22.076285714285714,29.0,432.0,4.0,,2021-02-24 00:00:00+00:00,Airbnb,Utah,Single
+2021-02-25 00:00:00+00:00,13.0,37.0,,,36.39737755102041,32.0,82.0,1.0,,2021-02-25 00:00:00+00:00,Airbnb,Utah,Single
+2021-02-26 00:00:00+00:00,12.0,62.0,,,35.675330097087375,39.0,543.0,3.0,,2021-02-26 00:00:00+00:00,Airbnb,Utah,Single
+2021-02-27 00:00:00+00:00,10.0,92.0,,,32.686854838709685,30.0,1152.0,3.0,,2021-02-27 00:00:00+00:00,Airbnb,Utah,Single
+2021-02-28 00:00:00+00:00,6.0,,,,45.77023999999999,24.0,,,,2021-02-28 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-01 00:00:00+00:00,5.0,32.0,,,38.57197058823531,18.0,508.0,1.0,,2021-03-01 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-02 00:00:00+00:00,10.0,122.0,,,31.75783333333332,29.0,1550.0,1.0,,2021-03-02 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-03 00:00:00+00:00,11.0,3.0,,,,31.0,20.0,1.0,,2021-03-03 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-04 00:00:00+00:00,1.0,13.0,,,,16.0,138.0,1.0,,2021-03-04 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-05 00:00:00+00:00,11.0,60.0,,,29.98276562499999,17.0,1006.0,1.0,,2021-03-05 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-06 00:00:00+00:00,5.0,26.0,,,41.86567326732676,11.0,86.0,1.0,,2021-03-06 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-07 00:00:00+00:00,2.0,,,,34.5852075471698,11.0,,,,2021-03-07 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-08 00:00:00+00:00,1.0,122.0,,,40.625323232323204,38.0,1647.0,1.0,,2021-03-08 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-09 00:00:00+00:00,3.0,,,,33.780505263157906,9.0,,,,2021-03-09 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-10 00:00:00+00:00,32.0,450.0,,,31.018797752808982,36.0,9582.0,2.0,,2021-03-10 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-11 00:00:00+00:00,7.0,176.0,,,31.8022159090909,13.0,1003.0,1.0,,2021-03-11 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-12 00:00:00+00:00,16.0,35.0,,,25.601490909090895,28.0,554.0,2.0,,2021-03-12 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-13 00:00:00+00:00,21.0,58.0,,,45.470180952380964,82.0,629.0,2.0,,2021-03-13 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-14 00:00:00+00:00,6.0,106.0,,,28.38364285714286,49.0,2300.0,3.0,,2021-03-14 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-15 00:00:00+00:00,7.0,,,,43.09111340206184,17.0,,,,2021-03-15 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-16 00:00:00+00:00,13.0,109.0,,,39.84716981132077,55.0,1195.0,2.0,,2021-03-16 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-17 00:00:00+00:00,16.0,42.0,,,34.99312500000002,44.0,729.0,2.0,,2021-03-17 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-18 00:00:00+00:00,10.0,73.0,,,36.91291919191921,35.0,1171.0,2.0,,2021-03-18 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-19 00:00:00+00:00,12.0,94.0,,,53.87511627906976,30.0,1178.0,3.0,,2021-03-19 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-20 00:00:00+00:00,19.0,41.0,,,15.178041666666667,43.0,536.0,3.0,,2021-03-20 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-21 00:00:00+00:00,7.0,,,,45.01839316239314,13.0,,,,2021-03-21 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-22 00:00:00+00:00,2.0,22.0,,,41.80339583333335,18.0,696.0,1.0,,2021-03-22 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-23 00:00:00+00:00,19.0,57.0,,,48.60127906976744,27.0,587.0,1.0,,2021-03-23 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-24 00:00:00+00:00,4.0,64.0,,,32.59818999999999,22.0,677.0,1.0,,2021-03-24 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-25 00:00:00+00:00,9.0,4.0,,,33.73184000000001,21.0,49.0,1.0,,2021-03-25 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-26 00:00:00+00:00,9.0,86.0,,,35.48328282828281,18.0,1090.0,3.0,,2021-03-26 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-27 00:00:00+00:00,10.0,25.0,,,33.31594186046511,27.0,630.0,3.0,,2021-03-27 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-28 00:00:00+00:00,1.0,10.0,,,65.95163736263733,6.0,349.0,2.0,,2021-03-28 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-29 00:00:00+00:00,5.0,24.0,,,34.472105263157886,37.0,1627.0,1.0,,2021-03-29 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-30 00:00:00+00:00,7.0,,,,38.638943925233654,7.0,,,,2021-03-30 00:00:00+00:00,Airbnb,Utah,Single
+2021-03-31 00:00:00+00:00,1.0,,,,47.1575673076923,6.0,,,,2021-03-31 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-01 00:00:00+00:00,1.0,13.0,,,37.85214285714287,14.0,414.0,1.0,,2021-04-01 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-02 00:00:00+00:00,2.0,0.0,,,,7.0,34.0,1.0,,2021-04-02 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-03 00:00:00+00:00,14.0,82.0,,,33.7265,15.0,833.0,2.0,,2021-04-03 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-04 00:00:00+00:00,1.0,,,,75.96227586206892,8.0,,,,2021-04-04 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-05 00:00:00+00:00,,23.0,,,55.26455172413791,20.0,421.0,2.0,,2021-04-05 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-06 00:00:00+00:00,14.0,141.0,,,31.100052083333335,60.0,3042.0,3.0,,2021-04-06 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-07 00:00:00+00:00,4.0,7.0,,,35.021663157894736,8.0,101.0,1.0,,2021-04-07 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-08 00:00:00+00:00,9.0,37.0,,,36.85926041666667,29.0,422.0,1.0,,2021-04-08 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-09 00:00:00+00:00,2.0,10.0,,,29.782159090909087,5.0,211.0,1.0,,2021-04-09 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-10 00:00:00+00:00,8.0,41.0,,,29.447588235294123,19.0,1007.0,1.0,,2021-04-10 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-11 00:00:00+00:00,3.0,,,,31.524367924528303,11.0,,,,2021-04-11 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-12 00:00:00+00:00,7.0,11.0,,,,7.0,37.0,1.0,,2021-04-12 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-13 00:00:00+00:00,,,,,36.473866666666645,2.0,,,,2021-04-13 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-14 00:00:00+00:00,,,,,29.527219047619045,3.0,,,,2021-04-14 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-15 00:00:00+00:00,1.0,28.0,,,25.615676923076926,,368.0,1.0,,2021-04-15 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-16 00:00:00+00:00,,,,,,4.0,,,,2021-04-16 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-17 00:00:00+00:00,7.0,97.0,,,,52.0,837.0,2.0,,2021-04-17 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-18 00:00:00+00:00,,,,,,1.0,,,,2021-04-18 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-19 00:00:00+00:00,1.0,2.0,,,,7.0,8.0,1.0,,2021-04-19 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-20 00:00:00+00:00,,,,,,1.0,,,,2021-04-20 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-21 00:00:00+00:00,3.0,31.0,,,,4.0,393.0,1.0,,2021-04-21 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-22 00:00:00+00:00,1.0,,,,,9.0,,,,2021-04-22 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-23 00:00:00+00:00,3.0,78.0,,,,4.0,1402.0,4.0,,2021-04-23 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-24 00:00:00+00:00,1.0,,,,38.37097333333334,31.0,,,,2021-04-24 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-25 00:00:00+00:00,5.0,,,,41.057714285714304,4.0,,,,2021-04-25 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-26 00:00:00+00:00,8.0,87.0,,,47.17183516483516,26.0,1159.0,1.0,,2021-04-26 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-27 00:00:00+00:00,17.0,27.0,,,43.792855421686745,34.0,252.0,1.0,,2021-04-27 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-28 00:00:00+00:00,21.0,130.0,,,31.983190476190476,57.0,2462.0,3.0,,2021-04-28 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-29 00:00:00+00:00,5.0,70.0,,,46.315021052631586,46.0,1280.0,2.0,,2021-04-29 00:00:00+00:00,Airbnb,Utah,Single
+2021-04-30 00:00:00+00:00,1.0,,,,42.962835616438376,10.0,,,,2021-04-30 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-01 00:00:00+00:00,8.0,15.0,,,43.30496428571428,4.0,269.0,2.0,,2021-05-01 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-02 00:00:00+00:00,7.0,33.0,,,25.264599999999998,23.0,479.0,1.0,,2021-05-02 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-03 00:00:00+00:00,3.0,,,,39.86495918367348,6.0,,,,2021-05-03 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-04 00:00:00+00:00,5.0,159.0,,,34.60575510204081,20.0,1657.0,4.0,,2021-05-04 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-05 00:00:00+00:00,20.0,91.0,,,24.57480357142856,40.0,2158.0,2.0,,2021-05-05 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-06 00:00:00+00:00,14.0,98.0,,,40.88745360824743,18.0,464.0,2.0,,2021-05-06 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-07 00:00:00+00:00,2.0,3.0,,,36.04277528089889,10.0,116.0,1.0,,2021-05-07 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-08 00:00:00+00:00,5.0,18.0,,,19.00870930232558,15.0,369.0,1.0,,2021-05-08 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-09 00:00:00+00:00,1.0,28.0,,,29.392976190476183,17.0,942.0,4.0,,2021-05-09 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-10 00:00:00+00:00,,,,,40.39597058823531,8.0,,,,2021-05-10 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-11 00:00:00+00:00,1.0,,,,34.978947368421046,2.0,,,,2021-05-11 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-12 00:00:00+00:00,3.0,,,,37.26407500000001,3.0,,,,2021-05-12 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-13 00:00:00+00:00,1.0,,,,35.33740229885059,1.0,,,,2021-05-13 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-14 00:00:00+00:00,2.0,43.0,,,45.31313978494624,20.0,478.0,1.0,,2021-05-14 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-15 00:00:00+00:00,7.0,40.0,,,40.691410526315785,22.0,241.0,1.0,,2021-05-15 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-16 00:00:00+00:00,19.0,303.0,,,30.98399047619048,57.0,5890.0,3.0,,2021-05-16 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-17 00:00:00+00:00,13.0,6.0,,,34.79704301075271,38.0,136.0,1.0,,2021-05-17 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-18 00:00:00+00:00,5.0,,,,19.2215,16.0,,,,2021-05-18 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-19 00:00:00+00:00,10.0,53.0,,,39.62526851851852,12.0,514.0,3.0,,2021-05-19 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-20 00:00:00+00:00,4.0,,,,33.99335514018693,8.0,,,,2021-05-20 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-21 00:00:00+00:00,4.0,34.0,,,48.27607692307694,5.0,635.0,1.0,,2021-05-21 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-22 00:00:00+00:00,2.0,,,,36.04626666666667,7.0,,,,2021-05-22 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-23 00:00:00+00:00,9.0,40.0,,,37.520716814159286,4.0,227.0,2.0,,2021-05-23 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-24 00:00:00+00:00,2.0,25.0,,,34.43960638297874,2.0,384.0,1.0,,2021-05-24 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-25 00:00:00+00:00,9.0,60.0,,,30.596829268292684,10.0,433.0,2.0,,2021-05-25 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-26 00:00:00+00:00,5.0,41.0,,,36.61051515151515,13.0,246.0,2.0,,2021-05-26 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-27 00:00:00+00:00,1.0,,,,,4.0,,,,2021-05-27 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-28 00:00:00+00:00,6.0,78.0,,,42.76787037037037,7.0,1449.0,1.0,,2021-05-28 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-29 00:00:00+00:00,22.0,87.0,,,46.03895454545453,45.0,2961.0,3.0,,2021-05-29 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-30 00:00:00+00:00,4.0,,,,51.748018518518535,20.0,,,,2021-05-30 00:00:00+00:00,Airbnb,Utah,Single
+2021-05-31 00:00:00+00:00,10.0,,,,40.206999999999994,19.0,,,,2021-05-31 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-01 00:00:00+00:00,5.0,18.0,,,37.6147,25.0,924.0,2.0,,2021-06-01 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-02 00:00:00+00:00,8.0,44.0,,,39.85427083333334,23.0,817.0,1.0,,2021-06-02 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-03 00:00:00+00:00,5.0,56.0,,,37.42334343434344,10.0,370.0,2.0,,2021-06-03 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-04 00:00:00+00:00,1.0,,,,32.39793636363636,11.0,,,,2021-06-04 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-05 00:00:00+00:00,,,,,25.99581481481482,5.0,,,,2021-06-05 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-06 00:00:00+00:00,1.0,,,,29.38672413793104,,,,,2021-06-06 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-10 00:00:00+00:00,1.0,,,,,4.0,,,,2021-06-10 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-11 00:00:00+00:00,2.0,,,,,1.0,,,,2021-06-11 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-12 00:00:00+00:00,48.0,249.0,,,44.58588235294115,59.0,687.0,4.0,,2021-06-12 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-13 00:00:00+00:00,32.0,276.0,,,28.75454081632652,78.0,1217.0,4.0,,2021-06-13 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-14 00:00:00+00:00,8.0,,,,30.926959999999998,8.0,,,,2021-06-14 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-15 00:00:00+00:00,5.0,32.0,,,19.648666666666667,26.0,937.0,5.0,,2021-06-15 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-16 00:00:00+00:00,26.0,683.0,,,31.01635106382978,137.0,1776.0,2.0,,2021-06-16 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-17 00:00:00+00:00,130.0,50.0,,,32.552555555555564,160.0,239.0,3.0,,2021-06-17 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-18 00:00:00+00:00,10.0,,,,24.80861290322581,14.0,,,,2021-06-18 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-19 00:00:00+00:00,10.0,132.0,,,28.009423076923074,40.0,1638.0,1.0,,2021-06-19 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-20 00:00:00+00:00,2.0,,,,26.036314814814816,12.0,,,,2021-06-20 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-21 00:00:00+00:00,13.0,41.0,,,37.60414772727274,28.0,945.0,1.0,,2021-06-21 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-22 00:00:00+00:00,15.0,100.0,,,19.85770297029703,69.0,1162.0,2.0,,2021-06-22 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-23 00:00:00+00:00,17.0,53.0,,,25.52063953488373,47.0,570.0,2.0,,2021-06-23 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-24 00:00:00+00:00,17.0,,,,,43.0,,,,2021-06-24 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-25 00:00:00+00:00,2.0,,,,,14.0,,,,2021-06-25 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-26 00:00:00+00:00,42.0,121.0,,,34.59747945205479,42.0,533.0,3.0,,2021-06-26 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-27 00:00:00+00:00,3.0,57.0,,,46.020770114942536,10.0,366.0,2.0,,2021-06-27 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-28 00:00:00+00:00,14.0,93.0,,,532.275,43.0,2797.0,2.0,,2021-06-28 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-29 00:00:00+00:00,18.0,,,,31.5318137254902,23.0,,,,2021-06-29 00:00:00+00:00,Airbnb,Utah,Single
+2021-06-30 00:00:00+00:00,31.0,200.0,,,40.163948453608256,98.0,4086.0,3.0,,2021-06-30 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-01 00:00:00+00:00,15.0,123.0,,,33.37544565217391,59.0,746.0,3.0,,2021-07-01 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-02 00:00:00+00:00,19.0,101.0,,,25.56702564102564,54.0,2965.0,2.0,,2021-07-02 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-03 00:00:00+00:00,20.0,60.0,,,30.306373737373747,40.0,740.0,4.0,,2021-07-03 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-04 00:00:00+00:00,8.0,17.0,,,32.63568817204302,32.0,375.0,1.0,,2021-07-04 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-05 00:00:00+00:00,13.0,26.0,,,41.14654022988507,21.0,421.0,2.0,,2021-07-05 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-06 00:00:00+00:00,13.0,64.0,,,34.329,31.0,1041.0,2.0,,2021-07-06 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-07 00:00:00+00:00,34.0,108.0,,,34.489776699029136,60.0,1521.0,2.0,,2021-07-07 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-08 00:00:00+00:00,20.0,9.0,,,34.311091743119285,28.0,173.0,2.0,,2021-07-08 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-09 00:00:00+00:00,14.0,35.0,10.0,19.0,36.18922826086956,20.0,227.0,2.0,10812236.0,2021-07-09 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-10 00:00:00+00:00,28.0,284.0,34.0,46.0,38.40337974683542,63.0,3282.0,4.0,18231858.0,2021-07-10 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-11 00:00:00+00:00,36.0,4.0,5.0,10.0,,97.0,39.0,1.0,5631487.0,2021-07-11 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-12 00:00:00+00:00,15.0,20.0,19.0,26.0,,25.0,307.0,1.0,5867112.0,2021-07-12 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-13 00:00:00+00:00,3.0,1.0,23.0,43.0,38.09925,9.0,43.0,1.0,7256454.0,2021-07-13 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-14 00:00:00+00:00,2.0,,49.0,80.0,31.341412371134027,14.0,,,12765837.0,2021-07-14 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-15 00:00:00+00:00,27.0,246.0,23.0,30.0,28.370419753086413,98.0,10327.0,1.0,6319261.0,2021-07-15 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-16 00:00:00+00:00,13.0,39.0,14.0,30.0,14.306054054054059,47.0,476.0,1.0,6856674.0,2021-07-16 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-17 00:00:00+00:00,25.0,167.0,14.0,23.0,29.073,117.0,1842.0,2.0,5125959.0,2021-07-17 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-18 00:00:00+00:00,16.0,8.0,27.0,36.0,35.73444339622639,44.0,357.0,1.0,10504669.0,2021-07-18 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-19 00:00:00+00:00,3.0,,32.0,54.0,38.65400943396225,16.0,,,10615760.0,2021-07-19 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-20 00:00:00+00:00,42.0,401.0,35.0,56.0,32.320448979591845,178.0,2186.0,7.0,11575214.0,2021-07-20 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-21 00:00:00+00:00,15.0,86.0,10.0,18.0,156.99525925925923,52.0,673.0,1.0,6388212.0,2021-07-21 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-22 00:00:00+00:00,9.0,27.0,30.0,42.0,28.430714285714284,46.0,224.0,2.0,5960517.0,2021-07-22 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-23 00:00:00+00:00,18.0,87.0,10.0,26.0,40.86947887323944,45.0,827.0,3.0,8000946.0,2021-07-23 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-24 00:00:00+00:00,14.0,64.0,1.0,1.0,39.22911000000001,81.0,805.0,2.0,5440.0,2021-07-24 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-25 00:00:00+00:00,18.0,221.0,30.0,48.0,31.93691346153847,75.0,2196.0,3.0,13660556.0,2021-07-25 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-26 00:00:00+00:00,16.0,54.0,25.0,37.0,38.413893617021266,97.0,724.0,1.0,7152949.0,2021-07-26 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-27 00:00:00+00:00,21.0,170.0,9.0,22.0,30.63375531914894,90.0,483.0,3.0,10562524.0,2021-07-27 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-28 00:00:00+00:00,22.0,114.0,19.0,36.0,43.89795789473684,71.0,2777.0,1.0,7254488.0,2021-07-28 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-29 00:00:00+00:00,35.0,0.0,19.0,30.0,34.267500000000005,94.0,14.0,6.0,7606923.0,2021-07-29 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-30 00:00:00+00:00,21.0,,2.0,2.0,30.62962025316457,71.0,,2.0,382390.0,2021-07-30 00:00:00+00:00,Airbnb,Utah,Single
+2021-07-31 00:00:00+00:00,9.0,,9.0,11.0,26.384741176470584,69.0,,3.0,2069543.0,2021-07-31 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-01 00:00:00+00:00,9.0,,10.0,15.0,27.34363392857144,21.0,,,8061040.0,2021-08-01 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-02 00:00:00+00:00,7.0,,1.0,2.0,29.636137254901946,17.0,,2.0,2346459.0,2021-08-02 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-03 00:00:00+00:00,14.0,,6.0,53.0,31.12775308641976,58.0,,1.0,13058353.0,2021-08-03 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-04 00:00:00+00:00,5.0,,13.0,22.0,27.26345679012348,14.0,,,4115147.0,2021-08-04 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-05 00:00:00+00:00,16.0,,34.0,76.0,38.83193269230769,54.0,,2.0,15994678.0,2021-08-05 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-06 00:00:00+00:00,8.0,,14.0,23.0,14.361884615384623,26.0,,1.0,3126976.0,2021-08-06 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-07 00:00:00+00:00,15.0,,14.0,32.0,25.921704545454553,60.0,,3.0,5616454.0,2021-08-07 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-08 00:00:00+00:00,9.0,,,,23.904666666666667,53.0,,1.0,,2021-08-08 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-09 00:00:00+00:00,30.0,,7.0,18.0,43.918915887850495,73.0,,2.0,3089107.0,2021-08-09 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-10 00:00:00+00:00,6.0,,11.0,26.0,69.07639240506326,45.0,,1.0,7212209.0,2021-08-10 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-11 00:00:00+00:00,7.0,,3.0,5.0,28.703065789473683,18.0,,1.0,884035.0,2021-08-11 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-12 00:00:00+00:00,12.0,,67.0,95.0,28.69997247706423,63.0,,4.0,23111760.0,2021-08-12 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-13 00:00:00+00:00,6.0,26.0,10.0,17.0,34.01467777777776,30.0,700.0,1.0,3227557.0,2021-08-13 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-14 00:00:00+00:00,22.0,119.0,28.0,32.0,29.46086666666667,105.0,839.0,4.0,5188530.0,2021-08-14 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-15 00:00:00+00:00,9.0,23.0,54.0,60.0,35.949625000000005,39.0,149.0,1.0,9333655.0,2021-08-15 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-16 00:00:00+00:00,3.0,,2.0,2.0,31.56607476635513,22.0,,,219274.0,2021-08-16 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-17 00:00:00+00:00,7.0,45.0,13.0,21.0,12.7404,28.0,530.0,2.0,5778074.0,2021-08-17 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-18 00:00:00+00:00,14.0,64.0,30.0,85.0,31.589328358208945,58.0,475.0,1.0,16917417.0,2021-08-18 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-19 00:00:00+00:00,5.0,8.0,2.0,6.0,40.181418367346936,15.0,261.0,2.0,1291206.0,2021-08-19 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-20 00:00:00+00:00,8.0,36.0,21.0,81.0,34.781873684210495,32.0,217.0,2.0,19078508.0,2021-08-20 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-21 00:00:00+00:00,24.0,61.0,39.0,75.0,38.37094318181817,51.0,760.0,2.0,13619328.0,2021-08-21 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-22 00:00:00+00:00,12.0,52.0,24.0,90.0,30.6930744680851,33.0,703.0,1.0,17859535.0,2021-08-22 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-23 00:00:00+00:00,7.0,18.0,17.0,23.0,43.49936363636363,19.0,493.0,1.0,5272831.0,2021-08-23 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-24 00:00:00+00:00,15.0,117.0,11.0,17.0,,77.0,1257.0,3.0,5500207.0,2021-08-24 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-25 00:00:00+00:00,23.0,1115.0,29.0,53.0,34.5095,119.0,74589.0,3.0,9328570.0,2021-08-25 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-26 00:00:00+00:00,11.0,,12.0,17.0,39.73121276595746,25.0,,,8462405.0,2021-08-26 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-27 00:00:00+00:00,28.0,85.0,45.0,119.0,28.130127272727268,43.0,1220.0,3.0,30018163.0,2021-08-27 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-28 00:00:00+00:00,50.0,160.0,26.0,48.0,34.50891428571429,121.0,1846.0,4.0,7166910.0,2021-08-28 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-29 00:00:00+00:00,28.0,244.0,19.0,37.0,25.743107142857152,136.0,5982.0,2.0,9962738.0,2021-08-29 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-30 00:00:00+00:00,19.0,1.0,14.0,26.0,27.053385321100933,59.0,14.0,1.0,11172854.0,2021-08-30 00:00:00+00:00,Airbnb,Utah,Single
+2021-08-31 00:00:00+00:00,15.0,0.0,45.0,117.0,54.10962025316458,23.0,22.0,1.0,33699988.0,2021-08-31 00:00:00+00:00,Airbnb,Utah,Single
+2021-09-01 00:00:00+00:00,9.0,110.0,22.0,30.0,45.427531914893635,30.0,2227.0,1.0,7260520.0,2021-09-01 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-02 00:00:00+00:00,22.0,16.0,28.0,71.0,67.37908641975311,46.0,183.0,1.0,12237946.0,2021-09-02 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-03 00:00:00+00:00,32.0,223.0,13.0,34.0,53.45430208333334,144.0,2244.0,4.0,8788208.0,2021-09-03 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-04 00:00:00+00:00,18.0,193.0,18.0,46.0,50.41261538461538,97.0,2331.0,4.0,18603044.0,2021-09-04 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-05 00:00:00+00:00,20.0,246.0,11.0,23.0,52.792737499999944,112.0,2793.0,5.0,6214793.0,2021-09-05 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-06 00:00:00+00:00,13.0,5.0,,,48.993538461538456,39.0,74.0,2.0,,2021-09-06 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-07 00:00:00+00:00,6.0,170.0,,,61.66638297872343,46.0,3021.0,2.0,,2021-09-07 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-08 00:00:00+00:00,12.0,74.0,2.0,2.0,47.40193406593408,64.0,814.0,4.0,423776.0,2021-09-08 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-09 00:00:00+00:00,28.0,362.0,9.0,16.0,61.242516853932635,150.0,7928.0,6.0,3304926.0,2021-09-09 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-10 00:00:00+00:00,5.0,37.0,20.0,35.0,,79.0,469.0,2.0,7408896.0,2021-09-10 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-11 00:00:00+00:00,19.0,117.0,,,33.58502702702703,62.0,1773.0,1.0,,2021-09-11 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-12 00:00:00+00:00,18.0,47.0,,,46.70476146788989,89.0,601.0,1.0,,2021-09-12 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-13 00:00:00+00:00,8.0,69.0,1.0,8.0,59.7043298969072,54.0,668.0,1.0,1498973.0,2021-09-13 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-14 00:00:00+00:00,20.0,143.0,7.0,9.0,42.94054128440367,62.0,1741.0,4.0,1908413.0,2021-09-14 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-15 00:00:00+00:00,10.0,62.0,,,46.84245544554456,49.0,1325.0,2.0,,2021-09-15 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-16 00:00:00+00:00,4.0,38.0,3.0,4.0,52.209142857142865,48.0,475.0,2.0,853184.0,2021-09-16 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-17 00:00:00+00:00,8.0,51.0,14.0,26.0,43.78940983606559,47.0,648.0,2.0,5573605.0,2021-09-17 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-18 00:00:00+00:00,12.0,173.0,10.0,21.0,56.71759090909088,47.0,2140.0,3.0,3986272.0,2021-09-18 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-19 00:00:00+00:00,10.0,33.0,,,29.69628846153847,44.0,702.0,2.0,,2021-09-19 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-20 00:00:00+00:00,1.0,26.0,10.0,15.0,53.195660194174735,12.0,288.0,1.0,3239538.0,2021-09-20 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-21 00:00:00+00:00,18.0,140.0,,,50.95091764705883,76.0,2941.0,3.0,,2021-09-21 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-22 00:00:00+00:00,5.0,69.0,19.0,28.0,38.47476250000001,56.0,1366.0,3.0,5149594.0,2021-09-22 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-23 00:00:00+00:00,7.0,37.0,,,39.280666666666676,42.0,594.0,3.0,,2021-09-23 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-24 00:00:00+00:00,32.0,259.0,,,51.80679787234046,87.0,3935.0,4.0,,2021-09-24 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-25 00:00:00+00:00,23.0,,15.0,19.0,45.48066250000001,36.0,,,3692967.0,2021-09-25 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-26 00:00:00+00:00,21.0,246.0,41.0,90.0,43.109885714285745,64.0,2641.0,6.0,20161248.0,2021-09-26 00:00:00+00:00,Airbnb,San Francisco,Single
+2021-09-27 00:00:00+00:00,25.0,134.0,,,34.30883333333335,107.0,4476.0,4.0,,2021-09-27 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-09-28 00:00:00+00:00,11.0,19.0,1.0,1.0,35.995961165048556,65.0,238.0,3.0,13074.0,2021-09-28 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-09-29 00:00:00+00:00,9.0,62.0,9.0,10.0,34.06309090909091,18.0,513.0,4.0,1670844.0,2021-09-29 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-09-30 00:00:00+00:00,23.0,296.0,11.0,24.0,38.46192631578948,69.0,1571.0,6.0,4374195.0,2021-09-30 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-01 00:00:00+00:00,23.0,100.0,15.0,27.0,39.067444444444426,78.0,2020.0,2.0,15624932.0,2021-10-01 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-02 00:00:00+00:00,6.0,,5.0,35.0,39.635968749999996,25.0,,,7864629.0,2021-10-02 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-03 00:00:00+00:00,24.0,85.0,17.0,24.0,44.148147058823525,59.0,1423.0,2.0,5825081.0,2021-10-03 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-04 00:00:00+00:00,17.0,71.0,9.0,51.0,42.04968539325843,72.0,1199.0,3.0,10360189.0,2021-10-04 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-05 00:00:00+00:00,10.0,58.0,17.0,26.0,37.58150505050503,61.0,889.0,3.0,4535045.0,2021-10-05 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-06 00:00:00+00:00,18.0,85.0,7.0,8.0,28.429822222222228,57.0,2494.0,3.0,1386647.0,2021-10-06 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-07 00:00:00+00:00,5.0,77.0,28.0,53.0,35.74317948717948,53.0,1551.0,3.0,9533170.0,2021-10-07 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-08 00:00:00+00:00,32.0,321.0,4.0,6.0,42.56842352941178,180.0,2642.0,2.0,706244.0,2021-10-08 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-09 00:00:00+00:00,11.0,41.0,,,36.55607446808508,70.0,778.0,1.0,,2021-10-09 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-10 00:00:00+00:00,1.0,30.0,,,36.94377678571427,30.0,537.0,2.0,,2021-10-10 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-11 00:00:00+00:00,9.0,618.0,,,55.84122580645164,58.0,18508.0,3.0,,2021-10-11 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-12 00:00:00+00:00,20.0,55.0,,,90.49559999999998,117.0,726.0,3.0,,2021-10-12 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-13 00:00:00+00:00,20.0,43.0,16.0,17.0,35.28260975609756,92.0,1273.0,2.0,3014801.0,2021-10-13 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-14 00:00:00+00:00,8.0,194.0,7.0,10.0,30.190565217391306,76.0,1191.0,3.0,1374658.0,2021-10-14 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-15 00:00:00+00:00,19.0,58.0,,,36.85257471264367,70.0,911.0,3.0,,2021-10-15 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-16 00:00:00+00:00,9.0,84.0,,,51.00669724770644,28.0,661.0,3.0,,2021-10-16 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-17 00:00:00+00:00,3.0,139.0,,,38.75985294117647,8.0,3008.0,1.0,,2021-10-17 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-18 00:00:00+00:00,2.0,3.0,8.0,9.0,43.45824545454549,91.0,11.0,1.0,2051285.0,2021-10-18 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-19 00:00:00+00:00,6.0,46.0,,,55.824658823529404,32.0,599.0,3.0,,2021-10-19 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-20 00:00:00+00:00,7.0,11.0,12.0,21.0,31.064205128205142,28.0,279.0,3.0,7233715.0,2021-10-20 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-21 00:00:00+00:00,19.0,81.0,18.0,49.0,31.76104938271605,69.0,735.0,3.0,15571797.0,2021-10-21 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-22 00:00:00+00:00,9.0,95.0,10.0,20.0,29.706035294117637,56.0,914.0,3.0,4951741.0,2021-10-22 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-23 00:00:00+00:00,2.0,,13.0,29.0,32.24569924812032,13.0,,,3729904.0,2021-10-23 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-24 00:00:00+00:00,12.0,115.0,4.0,17.0,37.42530630630631,43.0,1928.0,4.0,3659437.0,2021-10-24 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-25 00:00:00+00:00,15.0,184.0,3.0,24.0,36.59343689320388,77.0,1998.0,5.0,9650153.0,2021-10-25 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-26 00:00:00+00:00,14.0,114.0,8.0,38.0,44.318123456790126,75.0,1701.0,2.0,18589248.0,2021-10-26 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-27 00:00:00+00:00,56.0,172.0,1.0,32.0,37.02079120879121,142.0,2967.0,9.0,9030306.0,2021-10-27 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-28 00:00:00+00:00,14.0,147.0,2.0,28.0,35.3699117647059,59.0,1220.0,1.0,11652884.0,2021-10-28 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-29 00:00:00+00:00,13.0,112.0,2.0,8.0,42.54459090909092,84.0,1150.0,3.0,1053491.0,2021-10-29 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-30 00:00:00+00:00,12.0,24.0,19.0,33.0,30.16410810810811,67.0,258.0,2.0,8968386.0,2021-10-30 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-10-31 00:00:00+00:00,10.0,62.0,13.0,17.0,47.691442105263185,33.0,1460.0,5.0,3644347.0,2021-10-31 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-01 00:00:00+00:00,27.0,285.0,1.0,17.0,35.45332954545454,126.0,1496.0,6.0,12528046.0,2021-11-01 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-02 00:00:00+00:00,36.0,280.0,3.0,22.0,37.43750000000001,125.0,3547.0,6.0,12139960.0,2021-11-02 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-03 00:00:00+00:00,21.0,49.0,18.0,39.0,40.44856862745099,74.0,741.0,1.0,11038579.0,2021-11-03 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-04 00:00:00+00:00,25.0,332.0,10.0,48.0,42.311139784946235,152.0,17190.0,4.0,10509199.0,2021-11-04 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-05 00:00:00+00:00,15.0,111.0,4.0,11.0,35.89574193548384,106.0,1243.0,4.0,1913611.0,2021-11-05 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-06 00:00:00+00:00,20.0,60.0,17.0,48.0,36.00124299065419,94.0,241.0,2.0,14370926.0,2021-11-06 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-07 00:00:00+00:00,26.0,155.0,1.0,17.0,35.890495238095255,137.0,2221.0,3.0,7529989.0,2021-11-07 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-08 00:00:00+00:00,40.0,126.0,12.0,96.0,36.9268,99.0,1436.0,4.0,16354751.0,2021-11-08 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-09 00:00:00+00:00,26.0,203.0,1.0,17.0,36.29786458333332,98.0,3033.0,3.0,7748128.0,2021-11-09 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-10 00:00:00+00:00,15.0,89.0,1.0,17.0,36.32849523809523,76.0,1375.0,2.0,3547852.0,2021-11-10 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-11 00:00:00+00:00,1.0,,1.0,21.0,27.46713513513512,2.0,,,2690736.0,2021-11-11 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-12 00:00:00+00:00,7.0,78.0,2.0,47.0,39.256139534883715,52.0,1295.0,3.0,25648289.0,2021-11-12 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-13 00:00:00+00:00,1.0,,15.0,38.0,51.535453608247416,28.0,,,7847315.0,2021-11-13 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-14 00:00:00+00:00,3.0,39.0,,,46.97899,51.0,644.0,1.0,,2021-11-14 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-15 00:00:00+00:00,10.0,50.0,1.0,2.0,42.25530120481929,52.0,662.0,3.0,19221.0,2021-11-15 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-16 00:00:00+00:00,3.0,,23.0,45.0,39.013318181818185,19.0,,,2965000.0,2021-11-16 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-17 00:00:00+00:00,1.0,92.0,5.0,5.0,33.61290090090088,9.0,3061.0,1.0,1129270.0,2021-11-17 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-18 00:00:00+00:00,5.0,55.0,1.0,1.0,36.90679047619048,29.0,743.0,2.0,62591.0,2021-11-18 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-19 00:00:00+00:00,1.0,17.0,7.0,8.0,34.81342391304347,20.0,525.0,1.0,1423171.0,2021-11-19 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-20 00:00:00+00:00,6.0,40.0,1.0,2.0,32.58160396039605,12.0,346.0,2.0,7466.0,2021-11-20 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-21 00:00:00+00:00,1.0,,10.0,11.0,27.612423913043482,15.0,,,1945767.0,2021-11-21 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-22 00:00:00+00:00,13.0,130.0,1.0,6.0,43.983999999999995,69.0,1409.0,4.0,993143.0,2021-11-22 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-23 00:00:00+00:00,,606.0,26.0,48.0,61.53209523809525,19.0,25306.0,3.0,23495939.0,2021-11-23 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-24 00:00:00+00:00,21.0,,13.0,29.0,31.275873417721517,110.0,,,33815287.0,2021-11-24 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-25 00:00:00+00:00,6.0,110.0,1.0,13.0,30.027873684210533,156.0,4307.0,4.0,3350475.0,2021-11-25 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-26 00:00:00+00:00,1.0,,1.0,14.0,33.127241379310334,25.0,,,4190458.0,2021-11-26 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-27 00:00:00+00:00,16.0,209.0,2.0,19.0,20.924377049180325,152.0,4281.0,7.0,14812984.0,2021-11-27 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-28 00:00:00+00:00,2.0,,,,32.28137837837837,6.0,,,,2021-11-28 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-29 00:00:00+00:00,1.0,,24.0,49.0,35.33060952380952,,,,6137302.0,2021-11-29 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-11-30 00:00:00+00:00,3.0,,2.0,11.0,39.18315624999998,3.0,,,5147467.0,2021-11-30 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-01 00:00:00+00:00,6.0,,18.0,23.0,22.95575213675213,9.0,,,9566836.0,2021-12-01 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-02 00:00:00+00:00,4.0,23.0,8.0,25.0,24.19214876033057,12.0,437.0,1.0,4664450.0,2021-12-02 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-03 00:00:00+00:00,6.0,108.0,,,38.2021264367816,35.0,1400.0,1.0,,2021-12-03 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-04 00:00:00+00:00,10.0,72.0,,,23.49951086956522,52.0,1380.0,1.0,,2021-12-04 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-05 00:00:00+00:00,10.0,,1.0,7.0,32.45501204819279,62.0,,,1071877.0,2021-12-05 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-06 00:00:00+00:00,3.0,26.0,1.0,1.0,41.75217045454547,6.0,865.0,1.0,10901.0,2021-12-06 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-07 00:00:00+00:00,1.0,,,,,4.0,,,,2021-12-07 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-08 00:00:00+00:00,2.0,160.0,,,,42.0,3422.0,3.0,,2021-12-08 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-09 00:00:00+00:00,8.0,31.0,6.0,21.0,29.95064999999999,55.0,394.0,1.0,5018236.0,2021-12-09 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-10 00:00:00+00:00,6.0,242.0,4.0,14.0,32.409966292134825,47.0,4828.0,3.0,2551603.0,2021-12-10 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-11 00:00:00+00:00,8.0,277.0,3.0,6.0,23.837787499999997,26.0,6866.0,1.0,2801172.0,2021-12-11 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-12 00:00:00+00:00,7.0,38.0,4.0,4.0,24.722333333333335,33.0,561.0,2.0,482374.0,2021-12-12 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-13 00:00:00+00:00,15.0,96.0,8.0,17.0,51.95921359223304,59.0,2523.0,4.0,3615702.0,2021-12-13 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-14 00:00:00+00:00,13.0,65.0,8.0,11.0,34.31006666666667,36.0,381.0,5.0,2773427.0,2021-12-14 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-15 00:00:00+00:00,16.0,124.0,6.0,9.0,30.525725274725264,38.0,258.0,2.0,832277.0,2021-12-15 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-16 00:00:00+00:00,21.0,97.0,,,29.54474528301888,59.0,1001.0,4.0,,2021-12-16 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-17 00:00:00+00:00,11.0,40.0,24.0,55.0,31.219728260869566,60.0,303.0,4.0,10326458.0,2021-12-17 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-18 00:00:00+00:00,12.0,496.0,1.0,11.0,24.774448598130828,32.0,36141.0,1.0,2951266.0,2021-12-18 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-19 00:00:00+00:00,17.0,,2.0,13.0,31.137401574803135,131.0,,,3990667.0,2021-12-19 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-20 00:00:00+00:00,15.0,22.0,,,45.87339795918366,35.0,897.0,1.0,,2021-12-20 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-21 00:00:00+00:00,12.0,201.0,,,56.15834482758618,50.0,5775.0,1.0,,2021-12-21 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-22 00:00:00+00:00,25.0,125.0,,,41.84726724137932,139.0,2180.0,1.0,,2021-12-22 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-23 00:00:00+00:00,17.0,52.0,1.0,8.0,37.19987179487181,52.0,62.0,1.0,1531616.0,2021-12-23 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-24 00:00:00+00:00,18.0,85.0,2.0,16.0,41.24762499999999,56.0,532.0,2.0,6333955.0,2021-12-24 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-25 00:00:00+00:00,16.0,130.0,21.0,50.0,40.08484000000001,62.0,721.0,2.0,4271033.0,2021-12-25 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-26 00:00:00+00:00,11.0,,21.0,32.0,,40.0,,,6387410.0,2021-12-26 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-27 00:00:00+00:00,9.0,127.0,31.0,68.0,33.70333628318585,27.0,2242.0,3.0,9461024.0,2021-12-27 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-28 00:00:00+00:00,23.0,105.0,1.0,1.0,33.167972727272726,120.0,171.0,1.0,63765.0,2021-12-28 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-29 00:00:00+00:00,22.0,292.0,,,32.46732584269664,84.0,1702.0,2.0,,2021-12-29 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-30 00:00:00+00:00,42.0,134.0,2.0,28.0,33.03824096385543,78.0,1642.0,3.0,13180216.0,2021-12-30 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2021-12-31 00:00:00+00:00,14.0,28.0,1.0,17.0,37.67187234042551,73.0,399.0,2.0,10017428.0,2021-12-31 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2022-01-01 00:00:00+00:00,6.0,43.0,1.0,17.0,,45.0,677.0,1.0,18952643.0,2022-01-01 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2022-01-02 00:00:00+00:00,6.0,127.0,27.0,67.0,,37.0,2658.0,2.0,16804060.0,2022-01-02 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2022-01-03 00:00:00+00:00,14.0,,3.0,16.0,,57.0,,,11744240.0,2022-01-03 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2022-01-04 00:00:00+00:00,32.0,483.0,17.0,48.0,,121.0,10111.0,3.0,9064591.0,2022-01-04 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2022-01-05 00:00:00+00:00,15.0,129.0,8.0,35.0,,42.0,3315.0,4.0,16846830.0,2022-01-05 00:00:00+00:00,Airbnb,San Francisco,In Relationship
+2022-01-06 00:00:00+00:00,19.0,273.0,3.0,31.0,,73.0,5441.0,2.0,8556973.0,2022-01-06 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-07 00:00:00+00:00,43.0,126.0,40.0,94.0,23.49040909090909,76.0,1755.0,4.0,30056213.0,2022-01-07 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-08 00:00:00+00:00,15.0,15.0,20.0,56.0,36.17155833333336,22.0,176.0,1.0,16779884.0,2022-01-08 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-09 00:00:00+00:00,12.0,86.0,21.0,35.0,33.415568627450995,62.0,2025.0,1.0,9162571.0,2022-01-09 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-10 00:00:00+00:00,34.0,177.0,77.0,123.0,31.254981132075482,80.0,3934.0,5.0,28472402.0,2022-01-10 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-11 00:00:00+00:00,48.0,164.0,67.0,115.0,25.673944444444455,68.0,965.0,3.0,26909903.0,2022-01-11 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-12 00:00:00+00:00,20.0,133.0,13.0,20.0,29.593580952380954,47.0,1263.0,5.0,4381351.0,2022-01-12 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-13 00:00:00+00:00,20.0,213.0,37.0,73.0,38.163214285714275,35.0,4707.0,4.0,17076337.0,2022-01-13 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-14 00:00:00+00:00,17.0,88.0,15.0,33.0,34.9218514851485,56.0,1600.0,4.0,9039618.0,2022-01-14 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-15 00:00:00+00:00,,,13.0,51.0,34.78553535353535,,,,11369270.0,2022-01-15 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-16 00:00:00+00:00,,,45.0,85.0,36.37227731092436,,,,19437856.0,2022-01-16 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-17 00:00:00+00:00,,,51.0,79.0,36.33558333333335,3.0,,,16909649.0,2022-01-17 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-18 00:00:00+00:00,1.0,6.0,40.0,60.0,35.19199999999999,10.0,469.0,1.0,15748377.0,2022-01-18 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-19 00:00:00+00:00,4.0,157.0,33.0,56.0,31.269909999999985,31.0,3772.0,2.0,11827170.0,2022-01-19 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-20 00:00:00+00:00,3.0,105.0,50.0,84.0,32.73174257425743,9.0,2525.0,2.0,18722607.0,2022-01-20 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-21 00:00:00+00:00,2.0,29.0,25.0,52.0,36.2353563218391,12.0,349.0,1.0,18906317.0,2022-01-21 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-22 00:00:00+00:00,,,33.0,79.0,25.606320754716982,5.0,,1.0,22645872.0,2022-01-22 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-23 00:00:00+00:00,5.0,,44.0,92.0,30.321327272727274,10.0,,2.0,25755572.0,2022-01-23 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-24 00:00:00+00:00,2.0,,29.0,58.0,33.71639843749999,20.0,,1.0,14165791.0,2022-01-24 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-25 00:00:00+00:00,,,5.0,19.0,27.510575221238945,7.0,,1.0,5631346.0,2022-01-25 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-26 00:00:00+00:00,5.0,,62.0,122.0,34.600675675675674,23.0,,1.0,24075612.0,2022-01-26 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-27 00:00:00+00:00,2.0,,19.0,45.0,28.196320754716997,22.0,,2.0,13303160.0,2022-01-27 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-28 00:00:00+00:00,1.0,,36.0,120.0,34.33156756756758,5.0,,,22171057.0,2022-01-28 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-29 00:00:00+00:00,1.0,,50.0,246.0,25.2272117647059,6.0,,,27462984.0,2022-01-29 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-30 00:00:00+00:00,6.0,,25.0,82.0,,96.0,,1.0,12023578.0,2022-01-30 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-01-31 00:00:00+00:00,23.0,,39.0,84.0,26.087164948453623,85.0,,5.0,22611452.0,2022-01-31 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-01 00:00:00+00:00,2.0,,65.0,132.0,24.81083157894737,18.0,,1.0,19264224.0,2022-02-01 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-02 00:00:00+00:00,1.0,,28.0,56.0,31.435999999999993,20.0,,1.0,13217906.0,2022-02-02 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-03 00:00:00+00:00,8.0,,15.0,50.0,24.10806034482759,73.0,,5.0,11842126.0,2022-02-03 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-04 00:00:00+00:00,12.0,,28.0,73.0,28.81198076923079,29.0,,3.0,17650668.0,2022-02-04 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-05 00:00:00+00:00,12.0,,47.0,115.0,,52.0,,2.0,20727683.0,2022-02-05 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-06 00:00:00+00:00,,,1.0,3.0,,6.0,,,507404.0,2022-02-06 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-07 00:00:00+00:00,2.0,,6.0,11.0,,6.0,,,801656.0,2022-02-07 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-08 00:00:00+00:00,11.0,,70.0,153.0,19.482,13.0,,2.0,16993296.0,2022-02-08 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-09 00:00:00+00:00,6.0,,11.0,38.0,31.081747747747738,6.0,,2.0,28336272.0,2022-02-09 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-10 00:00:00+00:00,15.0,,15.0,28.0,22.53474747474747,44.0,,2.0,5709051.0,2022-02-10 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-11 00:00:00+00:00,9.0,,13.0,23.0,30.415895833333334,51.0,,4.0,7972945.0,2022-02-11 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-12 00:00:00+00:00,5.0,,23.0,76.0,32.953120370370364,21.0,,1.0,17050476.0,2022-02-12 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-13 00:00:00+00:00,6.0,,20.0,61.0,31.77854128440367,82.0,,4.0,12546193.0,2022-02-13 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-14 00:00:00+00:00,16.0,,29.0,45.0,31.440814432989686,48.0,,4.0,8349389.0,2022-02-14 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-15 00:00:00+00:00,19.0,,42.0,62.0,,90.0,,3.0,10998104.0,2022-02-15 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-16 00:00:00+00:00,9.0,,1.0,7.0,,27.0,,2.0,4264974.0,2022-02-16 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-17 00:00:00+00:00,3.0,,12.0,24.0,31.89808999999999,15.0,,,5006058.0,2022-02-17 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-18 00:00:00+00:00,6.0,,18.0,22.0,22.092217391304334,13.0,,3.0,2936355.0,2022-02-18 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-19 00:00:00+00:00,10.0,,41.0,64.0,21.89019801980198,32.0,,3.0,19052081.0,2022-02-19 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-20 00:00:00+00:00,23.0,,39.0,91.0,,49.0,,1.0,20426401.0,2022-02-20 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-21 00:00:00+00:00,14.0,,46.0,114.0,34.45676923076923,63.0,,2.0,24213008.0,2022-02-21 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-22 00:00:00+00:00,34.0,,65.0,74.0,35.016642857142884,106.0,,4.0,4688685.0,2022-02-22 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-23 00:00:00+00:00,20.0,,39.0,78.0,31.722391752577327,94.0,,4.0,15397332.0,2022-02-23 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-24 00:00:00+00:00,7.0,,28.0,102.0,24.78568181818183,28.0,,2.0,24698554.0,2022-02-24 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-25 00:00:00+00:00,12.0,,30.0,78.0,39.02346315789472,52.0,,4.0,18254605.0,2022-02-25 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-26 00:00:00+00:00,2.0,,30.0,91.0,21.38033734939758,27.0,,2.0,26059344.0,2022-02-26 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-27 00:00:00+00:00,20.0,,64.0,113.0,35.361738317757,67.0,,3.0,23507347.0,2022-02-27 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-02-28 00:00:00+00:00,11.0,,11.0,17.0,41.0685416666667,47.0,,3.0,3168108.0,2022-02-28 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-01 00:00:00+00:00,12.0,,40.0,57.0,,75.0,,2.0,10715958.0,2022-03-01 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-02 00:00:00+00:00,15.0,,25.0,57.0,37.90635714285714,76.0,,2.0,17601446.0,2022-03-02 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-03 00:00:00+00:00,9.0,,34.0,64.0,42.729124999999996,34.0,,2.0,13393702.0,2022-03-03 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-04 00:00:00+00:00,7.0,,9.0,15.0,25.008565217391304,20.0,,,2740329.0,2022-03-04 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-05 00:00:00+00:00,6.0,,15.0,41.0,35.61663636363636,19.0,,1.0,7283074.0,2022-03-05 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-06 00:00:00+00:00,7.0,,69.0,126.0,29.773222222222223,36.0,,4.0,26950930.0,2022-03-06 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-07 00:00:00+00:00,21.0,,54.0,83.0,26.36080898876403,96.0,,3.0,17115639.0,2022-03-07 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-08 00:00:00+00:00,20.0,,27.0,41.0,37.94351086956522,171.0,,2.0,9405305.0,2022-03-08 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-09 00:00:00+00:00,16.0,,21.0,33.0,23.18298,64.0,,2.0,6270161.0,2022-03-09 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-10 00:00:00+00:00,15.0,,14.0,22.0,29.920298076923096,107.0,,4.0,3732642.0,2022-03-10 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-11 00:00:00+00:00,38.0,,14.0,41.0,29.220164705882357,122.0,,5.0,9239970.0,2022-03-11 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-12 00:00:00+00:00,4.0,,52.0,93.0,31.381659999999982,48.0,,,28478481.0,2022-03-12 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-13 00:00:00+00:00,4.0,,17.0,36.0,36.62500000000001,30.0,,1.0,8778219.0,2022-03-13 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-14 00:00:00+00:00,2.0,,,,30.903622222222207,21.0,,1.0,,2022-03-14 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-15 00:00:00+00:00,2.0,,8.0,12.0,33.298973214285716,7.0,,2.0,3229398.0,2022-03-15 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-16 00:00:00+00:00,2.0,,8.0,8.0,26.832256410256413,16.0,,,1658961.0,2022-03-16 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-17 00:00:00+00:00,5.0,,,,27.6545504587156,24.0,,1.0,,2022-03-17 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-18 00:00:00+00:00,2.0,,,,18.186201923076926,37.0,,2.0,,2022-03-18 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-19 00:00:00+00:00,9.0,,76.0,220.0,31.574340909090903,44.0,,1.0,33366778.0,2022-03-19 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-20 00:00:00+00:00,13.0,,28.0,51.0,28.39157009345795,60.0,,2.0,12388790.0,2022-03-20 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-21 00:00:00+00:00,4.0,,38.0,59.0,30.30965573770492,35.0,,2.0,20478392.0,2022-03-21 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-22 00:00:00+00:00,21.0,,62.0,76.0,28.737203703703702,76.0,,4.0,16708576.0,2022-03-22 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-23 00:00:00+00:00,13.0,,24.0,46.0,27.744096774193558,54.0,,1.0,11904534.0,2022-03-23 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-24 00:00:00+00:00,6.0,,13.0,17.0,15.234294117647062,37.0,,3.0,3659631.0,2022-03-24 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-25 00:00:00+00:00,7.0,,28.0,45.0,20.48884615384617,33.0,,1.0,11735216.0,2022-03-25 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-26 00:00:00+00:00,3.0,,23.0,49.0,13.04193150684932,15.0,,4.0,11992204.0,2022-03-26 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-27 00:00:00+00:00,1.0,,45.0,97.0,21.58229914529914,9.0,,1.0,19657250.0,2022-03-27 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-28 00:00:00+00:00,31.0,,22.0,39.0,26.11068292682928,89.0,,5.0,8869352.0,2022-03-28 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-29 00:00:00+00:00,33.0,,18.0,78.0,20.999175438596488,127.0,,6.0,15502380.0,2022-03-29 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-30 00:00:00+00:00,15.0,,53.0,130.0,25.937770833333346,56.0,,2.0,33983788.0,2022-03-30 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-03-31 00:00:00+00:00,19.0,,7.0,17.0,35.01604395604396,72.0,,4.0,5129549.0,2022-03-31 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-01 00:00:00+00:00,9.0,,,,22.818550000000002,62.0,,3.0,,2022-04-01 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-02 00:00:00+00:00,2.0,,31.0,67.0,,10.0,,,14140531.0,2022-04-02 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-03 00:00:00+00:00,2.0,,6.0,6.0,26.770797619047613,7.0,,,1056217.0,2022-04-03 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-04 00:00:00+00:00,5.0,,16.0,24.0,28.81946534653465,32.0,,4.0,4401863.0,2022-04-04 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-05 00:00:00+00:00,41.0,,6.0,8.0,40.66053781512606,120.0,,5.0,287473.0,2022-04-05 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-06 00:00:00+00:00,11.0,,,,35.859016806722714,48.0,,,,2022-04-06 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-07 00:00:00+00:00,12.0,,42.0,80.0,33.19497183098594,38.0,,1.0,14254445.0,2022-04-07 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-08 00:00:00+00:00,9.0,,5.0,5.0,26.041808988764057,20.0,,2.0,896750.0,2022-04-08 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-09 00:00:00+00:00,28.0,,22.0,49.0,,81.0,,4.0,11472483.0,2022-04-09 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-10 00:00:00+00:00,30.0,,33.0,50.0,38.98930526315791,164.0,,3.0,14877344.0,2022-04-10 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-11 00:00:00+00:00,17.0,,27.0,73.0,37.35415463917524,52.0,,,17196286.0,2022-04-11 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-12 00:00:00+00:00,8.0,,22.0,35.0,38.074896551724144,40.0,,2.0,9629442.0,2022-04-12 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-13 00:00:00+00:00,5.0,,27.0,62.0,37.772702127659564,14.0,,2.0,15108096.0,2022-04-13 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-14 00:00:00+00:00,6.0,,27.0,53.0,43.56755172413793,46.0,,5.0,15133152.0,2022-04-14 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-15 00:00:00+00:00,9.0,,30.0,61.0,46.87130208333335,30.0,,1.0,16582494.0,2022-04-15 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-16 00:00:00+00:00,7.0,,14.0,23.0,28.45942500000001,42.0,,2.0,6604777.0,2022-04-16 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-17 00:00:00+00:00,4.0,,25.0,62.0,39.333119047619036,16.0,,,15323887.0,2022-04-17 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-18 00:00:00+00:00,3.0,,21.0,30.0,78.31385714285715,25.0,,3.0,6774927.0,2022-04-18 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-19 00:00:00+00:00,19.0,,25.0,61.0,29.36409782608694,144.0,,5.0,14182836.0,2022-04-19 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-20 00:00:00+00:00,22.0,,55.0,95.0,24.319113636363646,86.0,,2.0,21464944.0,2022-04-20 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-21 00:00:00+00:00,11.0,,31.0,68.0,14.564499999999999,36.0,,1.0,18558810.0,2022-04-21 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-22 00:00:00+00:00,,,21.0,44.0,33.99081443298968,,,,9412679.0,2022-04-22 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-23 00:00:00+00:00,,,33.0,73.0,36.87291764705881,,,,18237845.0,2022-04-23 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-24 00:00:00+00:00,,,30.0,73.0,42.583549450549434,,,,22577710.0,2022-04-24 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-25 00:00:00+00:00,,,32.0,96.0,22.955287500000004,,,,26480582.0,2022-04-25 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-26 00:00:00+00:00,,,38.0,82.0,20.80375641025641,,,,24911131.0,2022-04-26 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-27 00:00:00+00:00,,,21.0,103.0,32.122967032967026,,,,28327792.0,2022-04-27 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-28 00:00:00+00:00,12.0,,61.0,153.0,27.077,33.0,,4.0,36759326.0,2022-04-28 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-29 00:00:00+00:00,13.0,,24.0,33.0,24.421694444444437,69.0,,3.0,7255149.0,2022-04-29 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-04-30 00:00:00+00:00,1.0,,10.0,15.0,33.3707927927928,23.0,,,2824051.0,2022-04-30 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-01 00:00:00+00:00,4.0,,23.0,55.0,35.38885714285713,35.0,,1.0,7586514.0,2022-05-01 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-02 00:00:00+00:00,11.0,,18.0,33.0,24.064609090909098,54.0,,1.0,6590989.0,2022-05-02 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-03 00:00:00+00:00,18.0,,41.0,81.0,30.063603960396033,51.0,,1.0,17868927.0,2022-05-03 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-04 00:00:00+00:00,5.0,,26.0,90.0,19.39864220183486,30.0,,1.0,13862943.0,2022-05-04 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-05 00:00:00+00:00,16.0,,15.0,30.0,25.267094736842093,51.0,,3.0,4678579.0,2022-05-05 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-06 00:00:00+00:00,100.0,,54.0,100.0,30.034000000000006,333.0,,2.0,18313107.0,2022-05-06 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-07 00:00:00+00:00,46.0,,66.0,147.0,18.70518269230769,99.0,,2.0,27689345.0,2022-05-07 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-08 00:00:00+00:00,21.0,,9.0,12.0,20.22011926605505,103.0,,2.0,2842861.0,2022-05-08 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-09 00:00:00+00:00,29.0,,17.0,26.0,28.306322916666684,129.0,,3.0,5343303.0,2022-05-09 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-10 00:00:00+00:00,19.0,,11.0,17.0,25.6499104477612,114.0,,4.0,3321963.0,2022-05-10 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-11 00:00:00+00:00,15.0,,8.0,11.0,28.430735632183904,47.0,,1.0,2147963.0,2022-05-11 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-12 00:00:00+00:00,20.0,,1.0,6.0,30.711333333333332,73.0,,2.0,1007405.0,2022-05-12 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-13 00:00:00+00:00,7.0,,34.0,58.0,,27.0,,1.0,11666942.0,2022-05-13 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-14 00:00:00+00:00,4.0,,20.0,48.0,10.681199999999999,41.0,,1.0,10955617.0,2022-05-14 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-15 00:00:00+00:00,38.0,,59.0,114.0,22.658183333333326,170.0,,5.0,21938894.0,2022-05-15 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-16 00:00:00+00:00,26.0,,36.0,91.0,21.79489583333334,147.0,,2.0,29107590.0,2022-05-16 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-17 00:00:00+00:00,24.0,,8.0,58.0,26.894658823529408,110.0,,3.0,12031479.0,2022-05-17 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-18 00:00:00+00:00,6.0,,16.0,33.0,35.23637383177572,33.0,,,8716536.0,2022-05-18 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-19 00:00:00+00:00,16.0,,31.0,74.0,34.1830625,127.0,,6.0,21483382.0,2022-05-19 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-20 00:00:00+00:00,26.0,,21.0,39.0,34.818197802197815,96.0,,3.0,11095823.0,2022-05-20 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-21 00:00:00+00:00,6.0,,22.0,69.0,18.49289743589744,23.0,,,24577272.0,2022-05-21 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-22 00:00:00+00:00,39.0,,48.0,154.0,17.85785714285714,111.0,,3.0,31910109.0,2022-05-22 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-23 00:00:00+00:00,11.0,,38.0,92.0,28.001196721311473,58.0,,1.0,29965475.0,2022-05-23 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-24 00:00:00+00:00,,,28.0,52.0,27.62859292035398,,,,10742096.0,2022-05-24 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-25 00:00:00+00:00,,,24.0,44.0,26.473838983050843,,,,17780500.0,2022-05-25 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-26 00:00:00+00:00,,,37.0,98.0,,,,,22063087.0,2022-05-26 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-27 00:00:00+00:00,,,41.0,130.0,,,,,33218745.0,2022-05-27 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-28 00:00:00+00:00,,,36.0,84.0,,,,,15584120.0,2022-05-28 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-29 00:00:00+00:00,,,109.0,298.0,,,,,28370143.0,2022-05-29 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-30 00:00:00+00:00,,,50.0,125.0,,,,,29789916.0,2022-05-30 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-05-31 00:00:00+00:00,,,51.0,191.0,,,,,37166909.0,2022-05-31 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-01 00:00:00+00:00,,,103.0,250.0,,,,,25134945.0,2022-06-01 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-02 00:00:00+00:00,,,41.0,103.0,,,,,18503128.0,2022-06-02 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-03 00:00:00+00:00,,,25.0,83.0,,,,,20317039.0,2022-06-03 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-04 00:00:00+00:00,,,53.0,184.0,,,,,40365996.0,2022-06-04 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-05 00:00:00+00:00,,,37.0,105.0,,,,,23136404.0,2022-06-05 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-06 00:00:00+00:00,,,24.0,42.0,,,,,11905032.0,2022-06-06 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-07 00:00:00+00:00,,,5.0,48.0,,,,,25894740.0,2022-06-07 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-08 00:00:00+00:00,,,2.0,51.0,,,,,15659082.0,2022-06-08 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-09 00:00:00+00:00,,,2.0,47.0,,,,,11255272.0,2022-06-09 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-10 00:00:00+00:00,,,38.0,111.0,,,,,21648309.0,2022-06-10 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-11 00:00:00+00:00,,,33.0,70.0,,,,,5099212.0,2022-06-11 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-12 00:00:00+00:00,,,33.0,77.0,,,,,17099983.0,2022-06-12 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-13 00:00:00+00:00,,,12.0,57.0,,,,,19478550.0,2022-06-13 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-14 00:00:00+00:00,,,18.0,42.0,,,,,5430760.0,2022-06-14 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-15 00:00:00+00:00,,,26.0,61.0,,,,,10870443.0,2022-06-15 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-16 00:00:00+00:00,,,45.0,106.0,,,,,19975974.0,2022-06-16 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-17 00:00:00+00:00,,,40.0,72.0,,,,,8213043.0,2022-06-17 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-18 00:00:00+00:00,,,33.0,86.0,,,,,26266378.0,2022-06-18 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-20 00:00:00+00:00,,,13.0,18.0,,,,,3047475.0,2022-06-20 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-21 00:00:00+00:00,,,15.0,65.0,,,,,13998930.0,2022-06-21 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-22 00:00:00+00:00,,,13.0,60.0,,,,,15597406.0,2022-06-22 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-23 00:00:00+00:00,,,32.0,70.0,,,,,16186131.0,2022-06-23 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-24 00:00:00+00:00,,,15.0,81.0,,,,,26404614.0,2022-06-24 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-25 00:00:00+00:00,,,28.0,81.0,,,,,20609126.0,2022-06-25 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-26 00:00:00+00:00,,,8.0,46.0,,,,,10149001.0,2022-06-26 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-27 00:00:00+00:00,,,10.0,54.0,,,,,13588569.0,2022-06-27 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-28 00:00:00+00:00,,,7.0,19.0,,,,,5023338.0,2022-06-28 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-29 00:00:00+00:00,,,41.0,121.0,,,,,26904722.0,2022-06-29 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-06-30 00:00:00+00:00,,,21.0,63.0,,,,,15496191.0,2022-06-30 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-01 00:00:00+00:00,,,23.0,62.0,,,,,20766894.0,2022-07-01 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-02 00:00:00+00:00,,,29.0,97.0,,,,,18320842.0,2022-07-02 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-03 00:00:00+00:00,,,52.0,127.0,,,,,17391795.0,2022-07-03 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-04 00:00:00+00:00,,,30.0,58.0,,,,,10898178.0,2022-07-04 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-05 00:00:00+00:00,,,59.0,69.0,,,,,17632386.0,2022-07-05 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-06 00:00:00+00:00,,,50.0,73.0,,,,,16520834.0,2022-07-06 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-07 00:00:00+00:00,,,22.0,31.0,,,,,7450841.0,2022-07-07 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-08 00:00:00+00:00,,,66.0,141.0,,,,,22504853.0,2022-07-08 00:00:00+00:00,Airbnb,San Francisco,Single
+2022-07-09 00:00:00+00:00,,,22.0,36.0,,,,,9576166.0,2022-07-09 00:00:00+00:00,Airbnb,San Francisco,Single

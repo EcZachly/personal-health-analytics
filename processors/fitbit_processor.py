@@ -10,13 +10,8 @@ def fix_fitbit_json_file_dates(x):
            x['dateTime'].split()[1]
 
 
-# Change to your username
-FITBIT_NAME = 'ZacharyWilson'
-FITBIT_DATA_PATH = 'data/fitbit/' + FITBIT_NAME + '/'
-FITBIT_SOURCE_NAME = 'Fitbit'
-
 FITBIT_DATA = {
-    'hrv': {
+    'heart_rate_variability': {
         'path_start': 'Sleep',
         'file_type': 'csv',
         'file_start': 'Heart Rate Variability Details',
@@ -89,13 +84,13 @@ FITBIT_DATA = {
 }
 
 
-def read_data():
+def read_data(config):
     rows = []
+    root_path = config['path']
     for key in FITBIT_DATA.keys():
         path_start = FITBIT_DATA[key]['path_start']
-        for path, folders, files in os.walk(FITBIT_DATA_PATH + path_start):
+        for path, folders, files in os.walk(root_path + '/' + path_start):
             print('starting read for Fitbit data:' + key)
-            path_start = FITBIT_DATA[key]['path_start']
             metric_key = FITBIT_DATA[key]['metric_key']
             timestamp = FITBIT_DATA[key]['timestamp']
             file_type = FITBIT_DATA[key]['file_type']
@@ -110,7 +105,7 @@ def read_data():
                                 try:
                                     metric_value = float(metric_key(row))
                                     if metric_value > 0.0:
-                                        new_event = Event(source=FITBIT_SOURCE_NAME,
+                                        new_event = Event(source=config['source'],
                                                           metric_name=key,
                                                           timestamp=timestamp(row),
                                                           metric_value=metric_value,

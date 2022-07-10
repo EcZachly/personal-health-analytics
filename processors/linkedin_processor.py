@@ -4,8 +4,6 @@ import os
 import csv
 import json
 
-LINKEDIN_DATA_PATH = 'data/linkedin'
-LINKEDIN_SOURCE_NAME = 'LinkedIn'
 
 LINKEDIN_DATA = {
     'shares': {
@@ -49,14 +47,16 @@ def datetime_valid(dt_str):
     return True
 
 
-def read_data():
+def read_data(config):
     rows = []
+    data_path = config['path']
     for key in LINKEDIN_DATA.keys():
+        print('processing Linkedin data for:' + key)
         file_start = LINKEDIN_DATA[key]['file_start']
         content_key = LINKEDIN_DATA[key]['content_key']
         metric_key = LINKEDIN_DATA[key]['metric_key']
         file_type = LINKEDIN_DATA[key]['file_type']
-        for path, folders, files in os.walk(LINKEDIN_DATA_PATH):
+        for path, folders, files in os.walk(data_path):
             for file in files:
                 full_path = path + '/' + file
                 if file_start == file:
@@ -68,7 +68,7 @@ def read_data():
                             content_value = ' '.join(content_value.split())
                             if 'Date' in row and datetime_valid(row['Date']):
                                 new_event = Event(
-                                    source=LINKEDIN_SOURCE_NAME,
+                                    source=config['source'],
                                     metric_name=key,
                                     timestamp=row['Date'],
                                     metric_value=float(metric_key(row)),
@@ -80,7 +80,7 @@ def read_data():
                             elif 'Date' in row:
                                 combined_content = rows[-1].content + ' ' + ' '.join(row['Date'])
                                 rows[-1] = Event(
-                                    source=LINKEDIN_SOURCE_NAME,
+                                    source=config['source'],
                                     metric_name=rows[-1].metric_name,
                                     timestamp=rows[-1].timestamp,
                                     metric_value=float(metric_key(row)),
