@@ -1,4 +1,4 @@
-from event import Event
+from processors.event import Event
 import os
 import csv
 from os import listdir

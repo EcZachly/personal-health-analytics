@@ -1,4 +1,4 @@
-from event import Event
+from processors.event import Event
 from dateutil import parser
 import os
 import csv
